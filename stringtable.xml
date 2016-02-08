@@ -1,0 +1,2253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Altis Life RPG">
+	<Package name="Shop_Names">
+		<Key ID="STR_Shops_C_Bruce">
+			<French>Vêtements Civils</French>
+		</Key>
+		<Key ID="STR_Shops_C_Police">
+			<French>Vêtements F.A.</French>
+		</Key>
+		<Key ID="STR_Shops_C_Rebel">
+			<French>Vêtement Rebelle</French>
+		</Key>
+		<Key ID="STR_Shops_C_Diving">
+			<French>Matériel Plongée</French>
+		</Key>
+		<Key ID="STR_Shops_C_Kart">
+			<French>Équipement Karting</French>
+		</Key>
+		<Key ID="STR_Shops_Cop">
+			<French>Marché F.A.</French>
+		</Key>
+		<Key ID="STR_Shops_Jail">
+			<French>Marché Prison</French>
+		</Key>
+		<Key ID="STR_Shops_Market">
+			<French>Marché Altis</French>
+		</Key>
+		<Key ID="STR_Shops_Rebel">
+			<French>Marché Rebelle</French>
+		</Key>
+		<Key ID="STR_Shops_DrugDealer">
+			<French>Dealer</French>
+		</Key>
+		<Key ID="STR_Shops_PassDROIT">
+			<French>Pass Droit</French>
+		</Key>
+		<Key ID="STR_Shops_Oil">
+			<French>Grossiste Pétrole</French>
+		</Key>
+		<Key ID="STR_Shops_Wine">
+			<French>Grossiste Vin</French>
+		</Key>
+		<Key ID="STR_Shops_Oil">
+			<French>Grossiste Tabac</French>
+		</Key>
+		<Key ID="STR_Shops_Wood">
+			<French>Grossiste Bois</French>
+		</Key>
+		<Key ID="STR_Shops_Nuclear">
+			<French>Grossiste Uranium</French>
+		</Key>
+		<Key ID="STR_Shops_Farmer">
+			<French>Grossiste Blés/Farine</French>
+		</Key>
+		<Key ID="STR_Shops_Glass">
+			<French>Grossiste Sable/Verre</French>
+		</Key>
+		<Key ID="STR_Shops_Minerals">
+			<French>Grossiste Métaux</French>
+		</Key>
+		<Key ID="STR_Shops_Cement">
+			<French>Grossiste Pierre/Ciment</French>
+		</Key>
+		<Key ID="STR_Shops_Diamond">
+			<French>Grossiste Diamants</French>
+		</Key>
+		<Key ID="STR_Shops_Salt">
+			<French>Grossiste Sel</French>
+		</Key>
+		<Key ID="STR_Shops_Dollars">
+			<French>Société Écran</French>
+		</Key>
+		<Key ID="STR_Shops_Antiquity">
+			<French>Grossiste Antiquaire</French>
+		</Key>
+	</Package>
+	<Package name="Global">
+		<Key ID="STR_Global_Close">
+			<French>Fermer</French>
+		</Key>
+		<Key ID="STR_Global_Sell">
+			<French>Vendre</French>
+		</Key>
+		<Key ID="STR_Global_Buy">
+			<French>Acheter</French>
+		</Key>
+		<Key ID="STR_Global_Give">
+			<French>Donner</French>
+		</Key>
+		<Key ID="STR_Global_Use">
+			<French>Utiliser</French>
+		</Key>
+		<Key ID="STR_Global_Remove">
+			<French>Suppr</French>
+		</Key>
+		<Key ID="STR_Global_Settings">
+			<French>Réglages</French>
+		</Key>
+		<Key ID="STR_Global_RentVeh">
+			<French>Louer</French>
+		</Key>
+		<Key ID="STR_Global_Retrieve">
+			<French>Prendre</French>
+		</Key>
+		<Key ID="STR_Global_NoSelection">
+			<French>Vous n'avez rien sélectionné.</French>
+		</Key>
+		<Key ID="STR_Global_Yes">
+			<French>Oui</French>
+		</Key>
+		<Key ID="STR_Global_No">
+			<French>Non</French>
+		</Key>
+		<Key ID="STR_Global_Cancel">
+			<French>Annuler</French>
+		</Key>
+	</Package>
+	<Package name="Admin_Menu">
+		<Key ID="STR_Admin_Title">
+			<French>Menu Administration</French>
+		</Key>
+		<Key ID="STR_Admin_GetID">
+			<French>Voir ID</French>
+		</Key>
+		<Key ID="STR_Admin_Spectate">
+			<French>Espion</French>
+		</Key>
+		<Key ID="STR_Admin_Teleport">
+			<French>Me TP</French>
+		</Key>
+		<Key ID="STR_Admin_TPlayer">
+			<French>TP Joueur</French>
+		</Key>
+		<Key ID="STR_Admin_FreeCam">
+			<French>Caméra</French>
+		</Key>
+		<Key ID="STR_Admin_Free">
+			<French>Me Libérer</French>
+		</Key>
+		<Key ID="STR_Admin_ATM">
+			<French>ATM</French>
+		</Key>
+		<Key ID="STR_Admin_God">
+			<French>Mode Dieu</French>
+		</Key>
+		<Key ID="STR_Admin_Freeze">
+			<French>Freeze</French>
+		</Key>
+		<Key ID="STR_Admin_Markers">
+			<French>Marqueurs</French>
+		</Key>
+		<Key ID="STR_ANOTF_Frozen">
+			<French>Vous venez d'immobiliser %1</French>
+		</Key>
+		<Key ID="STR_ANOTF_Unfrozen">
+			<French>Vous venez de libérer %1</French>
+		</Key>
+		<Key ID="STR_ANOTF_Error">
+			<French>Tout à fait.</French>
+		</Key>
+		<Key ID="STR_ANOTF_ErrorLevel">
+			<French>Permissions insuffisantes</French>
+		</Key>
+		<Key ID="STR_ANOTF_MDisabled">
+			<French>Marqueurs désactivés</French>
+		</Key>
+		<Key ID="STR_ANOTF_MEnabled">
+			<French>Marqueurs activés</French>
+		</Key>
+		<Key ID="STR_NOTF_ActionCancel">
+			<French>Action annulées</French>
+		</Key>
+	</Package>
+	<Package name="Admin_Notifications">
+		<Key ID="STR_ANOTF_Query">
+			<French>Recherche joueur en cours...</French>
+		</Key>
+		<Key ID="STR_ANOTF_QueryGarage">
+			<French>Chargement des véhicules depuis la base de données en cours...</French>
+		</Key>
+		<Key ID="STR_ANOTF_Query_2">
+			<French>Vous avez déjà interrogé la base de données !</French>
+		</Key>
+		<Key ID="STR_ANOTF_QueryFail">
+			<French>Les véhicules n'ont pas été trouvés !!!</French>
+		</Key>
+		<Key ID="STR_NOTF_Frozen">
+			<French>Vous avez été immobilisé par un administrateur !</French>
+		</Key>
+		<Key ID="STR_NOTF_Unfrozen">
+			<French>Un administrateur vous a libéré.</French>
+		</Key>
+	</Package>
+	<Package name="ATM_Strings">
+		<Key ID="STR_ATM_Title">
+			<French>Compte Bancaire</French>
+		</Key>
+		<Key ID="STR_ATM_Withdraw">
+			<French>Retirer</French>
+		</Key>
+		<Key ID="STR_ATM_Deposit">
+			<French>Déposer</French>
+		</Key>
+		<Key ID="STR_ATM_Transfer">
+			<French>Virement</French>
+		</Key>
+		<Key ID="STR_ATM_GreaterThan">
+			<French>Vous ne pouvez pas déposer plus de $999,999 à la fois</French>
+		</Key>
+		<Key ID="STR_ATM_notnumeric">
+			<French>Le montant inscrit n'est pas une valeur numérique.</French>
+		</Key>
+		<Key ID="STR_ATM_DepositMSG">
+ 			<French>Vous avez déposez $%1 sur votre compte en banque.</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_NoneSelected">
+ 			<French>Vous n'avez sélectionné personne...</French>
+		</Key>
+ 		<Key ID="STR_ATM_DoesntExist">
+ 			<French>La personne que vous avez sélectionné n'existe pas ou s'est déconnectée.</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_TransferMax">
+ 			<French>Vous ne pouvez pas transférer plus de $999,999 en un seul virement.</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_NotEnoughFunds">
+ 			<French>Vos fonds en banque sont insuffisants !</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_SentMoneyFail">
+ 			<French>Vos fonds sont insuffisants pour un transfert de $%1. Somme manquante : $%2.</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_SentMoneySuccess">
+ 			<French>Vous avez transféré $%1 à %2.\n\nUne taxe de $%3 vous a été prélevée lors de la transaction.</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_WithdrawMax">
+ 			<French>Vous ne pouvez pas retirer plus de $999,999 en une seule fois.</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_WithdrawMin">
+ 			<French>Vous ne pouvez pas retirer moins de $100.</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_WithdrawSuccess">
+ 			<French>Votre retrait d'un montant de $%1 a bien été effectué.</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_NotEnoughCash">
+ 			<French>Vous ne disposez de cette somme...</French>
+ 		</Key>
+ 		<Key ID="STR_ATM_DepositGang">
+ 			<French>Vous venez de déposer $%1 sur le Compte Joint de votre gang.</French>
+ 		</Key>
+	</Package>
+	<Package name="Cell_Phone">
+		<Key ID="STR_CELL_Title">
+			<French>Itinéris Altis</French>
+		</Key>
+		<Key ID="STR_CELL_TextToSend">
+			<French>Message à envoyer :</French>
+		</Key>
+		<Key ID="STR_CELL_TextMSGBtn">
+			<French>Envoyer à :</French>
+		</Key>
+		<Key ID="STR_CELL_TextPolice">
+			<French>F.A.</French>
+		</Key>
+		<Key ID="STR_CELL_TextAdmins">
+			<French>Admin</French>
+		</Key>
+		<Key ID="STR_CELL_AdminMsg">
+			<French>Entre Admin</French>
+		</Key>
+		<Key ID="STR_CELL_AdminMSGAll">
+			<French>Admin à tous</French>
+		</Key>
+	</Package>
+	<Package name="Chop_Shop">
+		<Key ID="STR_ChopShop_Title">
+			<French>Receleur Véhicules</French>
+		</Key>
+	</Package>
+	<Package name="Gang_Menu">
+		<Key ID="STR_Gang_Title">
+			<French>Gang</French>
+		</Key>
+		<Key ID="STR_Gang_Join">
+			<French>Rejoindre</French>
+		</Key>
+		<Key ID="STR_Gang_Leave">
+			<French>Quitter</French>
+		</Key>
+		<Key ID="STR_Gang_UpgradeSlots">
+			<French>Augmenter Slots</French>
+		</Key>
+		<Key ID="STR_Gang_Kick">
+			<French>Kick</French>
+		</Key>
+		<Key ID="STR_Gang_SetLeader">
+			<French>Passer Leader</French>
+		</Key>
+		<Key ID="STR_Gang_PriceTxt">
+			<French>La création d'un gang vous en coûtera $%1</French>
+		</Key>
+		<Key ID="STR_Gang_Create">
+			<French>Créer</French>
+		</Key>
+		<Key ID="STR_Gang_YGN">
+			<French>//nom_du_gang</French>
+		</Key>
+		<Key ID="STR_Gang_Browse">
+			<French>Chercher</French>
+		</Key>
+		<Key ID="STR_Gang_Invite_Player">
+			<French>Inviter Joueur</French>
+		</Key>
+		<Key ID="STR_Gang_Disband_Gang">
+			<French>Démanteler Gang</French>
+		</Key>
+		<Key ID="STR_Gang_Invitation">
+			<French>Invitation Gang</French>
+		</Key>
+		<Key ID="STR_Gang_Transfer">
+			<French>Transfert Chefs de Gang</French>
+		</Key>
+		<Key ID="STR_Gang_UpgradeMax">
+			<French>Augmentation du nombre de slots disponibles.</French>
+		</Key>
+	</Package>
+	<Package name="Gang_Notification">
+		<Key ID="STR_GNOTF_Over32">
+			<French>Le nom de votre gang ne peut pas excéder 32 carractères.</French>
+		</Key>
+		<Key ID="STR_GNOTF_IncorrectChar">
+			<French>Des carractères sont invalides dans le nom de votre gang.</French>
+		</Key>
+		<Key ID="STR_GNOTF_NotEnoughMoney">
+			<French>Vos fonds sont insuffisants.\n\nSomme manquante : $%1.</French>
+		</Key>
+		<Key ID="STR_GNOTF_CreateSuccess">
+			<French>Vous avez créé le gang %1 pour $%2</French>
+		</Key>		
+		<Key ID="STR_GNOTF_DisbandWarn">
+			<French>Vous allez démanteler le gang. & lt; br / & gt; & lt; br / & gt; Êtes-vous sûr de vouloir supprimer le groupe ?</French>
+		</Key>
+		<Key ID="STR_GNOTF_DisbandGangPro">
+			<French>Démantèlement du gang...</French>
+		</Key>
+		<Key ID="STR_GNOTF_DisbandGangCanc">
+			<French>Démantèlement annulé.</French>
+		</Key>
+		<Key ID="STR_GNOTF_DisbandWarn_2">
+			<French>Le leader a démantelé le gang.</French>
+		</Key>
+		<Key ID="STR_GNOTF_InviteMSG">
+			<French>%1 vous a invité(e) à rejoindre le gang %2</French>
+		</Key>
+		<Key ID="STR_GNOTF_InvitePlayerMSG">
+			<French>Vous avez invité %1 dans votre gang.</French>
+		</Key>
+		<Key ID="STR_GNOTF_SelectPerson">
+			<French>Vous devez sélectionner la personne que vous souhaitez inviter.</French>
+		</Key>
+		<Key ID="STR_GNOTF_InviteSent">
+			<French>L'invitation pour faire entrer %1 dans votre gang a bien été envoyée.</French>
+		</Key>
+		<Key ID="STR_GNOTF_InviteCancel">
+			<French>Invitation annulée</French>
+		</Key>
+		<Key ID="STR_GNOTF_KickSelf">
+			<French>Vous ne pouvez pas vous auto-kick.</French>
+		</Key>
+		<Key ID="STR_GNOTF_MaxSlot">
+			<French>Votre gang a atteint sa limite de slots accessibles.</French>
+		</Key>
+		<Key ID="STR_GNOTF_SelectKick">
+			<French>Vous devez sélectionner la personne que vous souhaitez kicker.</French>
+		</Key>
+		<Key ID="STR_GNOTF_LeaderLeave">
+			<French>Vous ne pouvez pas quitter le gang sans la nomination d'un nouveau chef.</French>
+		</Key>
+		<Key ID="STR_GNOTF_TransferMSG">
+			<French>Vous êtes sur le point de nommer %1 chef de votre gang actuel.</French>
+		</Key>
+		<Key ID="STR_GNOTF_TransferCancel">
+			<French>Nomination d'un nouveau chef annulée.</French>
+		</Key>
+		<Key ID="STR_GNOTF_TransferSelf">
+			<French>Vous êtes déjà chef de ce gang.</French>
+		</Key>
+		<Key ID="STR_GNOTF_TransferSelect">
+			<French>Vous devez d'abbord sélectionner une personne.</French>
+		</Key>
+		<Key ID="STR_GNOTF_MaxMemberMSG">
+			<French>Vous êtes sur le point de mettre à niveau le nombre de slots autorisés pour votre gang.</French>
+		</Key>
+		<Key ID="STR_GNOTF_CurrentMax">
+			<French>Current MAX : %1</French>
+		</Key>
+		<Key ID="STR_GNOTF_UpgradeMax">
+			<French>Upgraded MAX : %2</French>
+		</Key>
+		<Key ID="STR_GNOTF_Price">
+			<French>Prix :</French>
+		</Key>
+		<Key ID="STR_GNOTF_NotEoughMoney_2">
+			<French>Vos fonds sont insuffisants.</French>
+		</Key>
+		<Key ID="STR_GNOTF_Current">
+			<French>Current :</French>
+		</Key>
+		<Key ID="STR_GNOTF_Lacking">
+			<French>Lacking :</French>
+		</Key>
+		<Key ID="STR_GNOTF_UpgradeSuccess">
+			<French>You have upgraded from %1 to %2 maximum slots for &lt;t color='#8cff9b'&gt;$%3&lt;/t&gt;</French>
+		</Key>
+		<Key ID="STR_GNOTF_UpgradeCancel">
+			<French>Upgrade cancelled.</French>
+		</Key>
+		<Key ID="STR_GNOTF_Funds">
+			<French>Funds:</French>
+		</Key>
+		<Key ID='STR_GNOTF_GangLeader'>
+			<French>(Gang Leader)</French>
+		</Key>
+	</Package>
+	<Package name="Garage_Strings">
+		<Key ID="STR_Garage_NoVehicles">
+			<French>Aucun véhicule n'est présent dans votre garage.</French>
+		</Key>
+		<Key ID="STR_Garage_CashError">
+			<French>Vous n'avez pas $%1 sur votre compte bancaire.</French>
+		</Key>
+		<Key ID="STR_Garage_SpawningVeh">
+			<French>Sortie du véhicule en cours...</French>
+		</Key>
+		<Key ID="STR_Garage_SQLError_Destroyed">
+			<French>Sorry but %1 was classified as a destroyed vehicle and was sent tot he scrap yard.</French>
+		</Key>
+		<Key ID="STR_Garage_SQLError_Active">
+			<French>Sorry but %1 is already active somewhere in the world and cannot be spawned.</French>
+		</Key>
+		<Key ID="STR_Garage_SpawnPointError">
+			<French>There is already a vehicle on the spawn point. You will be refunded the cost of getting out out.</French>
+		</Key>
+		<Key ID="STR_Garage_SoldCar">
+			<French>You sold that vehicle for $%1</French>
+		</Key>
+		<Key ID="STR_Garage_Store_NotPersistent">
+			<French>That vehicle is a rental and cannot be stored in your garage.</French>
+		</Key>
+		<Key ID="STR_Garage_Store_NoOwnership">
+			<French>That vehicle doesn't belong to you therefor you cannot store it in your garage.</French>
+		</Key>
+		<Key ID="STR_Garage_Store_Success">
+			<French>The vehicle has been stored in your garage.</French>
+		</Key>
+		<Key ID="STR_Garage_Store_Server">
+			<French>The server is trying to store the vehicle...</French>
+		</Key>
+		<Key ID="STR_Garage_Selection_Error">
+			<French>The selection had a error...</French>
+		</Key>
+		<Key ID="STR_Garage_NoNPC">
+			<French>There isn't a vehicle near the NPC.</French>
+		</Key>
+	</Package>
+	<Package name="Key_Chain">
+		<Key ID="STR_Keys_Title">
+			<French>List of Keys</French>
+		</Key>
+		<Key ID="STR_Keys_DropKey">
+			<French>Drop Key</French>
+		</Key>
+		<Key ID="STR_Keys_GiveKey">
+			<French>Give Key</French>
+		</Key>
+	</Package>
+	<Package name="Player_Menu">
+		<Key ID="STR_PM_Title">
+			<French>Menu Y</French>
+		</Key>
+		<Key ID="STR_PM_cItems">
+			<French>Objets Vituels</French>
+		</Key>
+		<Key ID="STR_PM_Licenses">
+			<French>Licences</French>
+		</Key>
+		<Key ID="STR_PM_MoneyStats">
+			<French>Stats Monétaires</French>
+		</Key>
+		<Key ID="STR_PM_MyGang">
+			<French>Gang</French>
+		</Key>
+		<Key ID="STR_PM_WantedList">
+			<French>Wanted Liste</French>
+		</Key>
+		<Key ID="STR_PM_CellPhone">
+			<French>Téléphone</French>
+		</Key>
+		<Key ID="STR_PM_KeyChain">
+			<French>Clés</French>
+		</Key>
+		<Key ID="STR_PM_AdminMenu">
+			<French>Menu Admin</French>
+		</Key>
+		<Key ID="STR_PM_SyncData">
+			<French>Sync Data</French>
+		</Key>
+		<Key ID="STR_PM_Market">
+			<French>Bourse</French>
+		</Key>
+	</Package>
+	<Package name="Settings_Menu">
+		<Key ID="STR_SM_Title">
+			<French>Menu Réglages</French>
+		</Key>
+		<Key ID="STR_SM_onFoot">
+			<French>À pied</French>
+		</Key>
+		<Key ID="STR_SM_inCar">
+			<French>Au sol</French>
+		</Key>
+		<Key ID="STR_SM_inAir">
+			<French>En l'air</French>
+		</Key>
+		<Key ID="STR_SM_ToolTip1">
+			<French>Distance d'affichage à pied.</French>
+		</Key>
+		<Key ID="STR_SM_ToolTip2">
+			<French>Distance d'affichage dans véhicule terrestre.</French>
+		</Key>
+		<Key ID="STR_SM_ToolTip3">
+			<French>Distance d'affichage dans un véhicule aérien.</French>
+		</Key>
+		<Key ID="STR_SM_PlayerTags">
+			<French>Tags Joueur</French>
+		</Key>
+		<Key ID="STR_SM_SC">
+			<French>Sidechat</French>
+		</Key>
+		<Key ID="STR_SM_SCOFF">
+			<French>Sidechat OFF</French>
+		</Key>
+		<Key ID="STR_SM_SCON">
+			<French>Sidechat ON</French>
+		</Key>
+	</Package>
+	<Package name="Virt_Shop">
+		<Key ID="STR_VS_SI">
+			<French>Inventaire Achat</French>
+		</Key>
+		<Key ID="STR_VS_PI">
+			<French>Mon Inventaire</French>
+		</Key>
+		<Key ID="STR_VS_BuyItem">
+			<French>Acheter</French>
+		</Key>
+		<Key ID="STR_VS_SellItem">
+			<French>Vendre</French>
+		</Key>
+	</Package>
+	<Package name="Spawn_Menu">
+		<Key ID="STR_Spawn_Title">
+			<French>Spawn Sélection</French>
+		</Key>
+		<Key ID="STR_Spawn_Spawn">
+			<French>Spawn</French>
+		</Key>
+		<Key ID="STR_Spawn_CSP">
+			<French>Spawn Sélectionné</French>
+		</Key>
+		<Key ID="STR_Spawn_Spawned">
+			<French>Vous avez apparu à</French>
+		</Key>
+	</Package>
+	<Package name="Ticket_Menu">
+		<Key ID="STR_Ticket_GiveTicket">
+			<French>Give Ticket</French>
+		</Key>
+		<Key ID="STR_Ticket_PayTicket">
+			<French>Pay Ticket</French>
+		</Key>
+		<Key ID="STR_Ticket_RefuseTicket">
+			<French>Refuse Ticket</French>
+		</Key>
+	</Package>
+	<Package name="Trunk_Menu">
+		<Key ID="STR_Trunk_TInventory">
+			<French>Trunk Inventory</French>
+		</Key>
+		<Key ID="STR_Trunk_PInventory">
+			<French>Player Inventory</French>
+		</Key>
+		<Key ID="STR_Trunk_Take">
+			<French>Take</French>
+		</Key>
+		<Key ID="STR_Trunk_Store">
+			<French>Store</French>
+		</Key>
+	</Package>
+	<Package name="Wanted_Menu">
+		<Key ID="STR_Wanted_Title">
+			<French>F.A. Wanted List</French>
+		</Key>
+		<Key ID="STR_Wanted_Pardon">
+			<French>Pardon</French>
+		</Key>
+		<Key ID="STR_Wanted_Add">
+			<French>Add</French>
+		</Key>
+		<Key ID="STR_Wanted_People">
+			<French>Wanted People</French>
+		</Key>
+		<Key ID="STR_Wanted_Citizens">
+			<French>Citizens</French>
+		</Key>
+		<Key ID="STR_Wanted_Crimes">
+			<French>Crimes</French>
+		</Key>
+		<Key ID="STR_Wanted_AddP">
+			<French>%1 has been added to the wanted list.</French>
+		</Key>
+		<Key ID="STR_Wanted_Count">
+			<French>%1 count(s) of %2</French>
+		</Key>
+		<Key ID="STR_Wanted_Bounty">
+			<French>Current Bounty Price: $%1</French>
+		</Key>
+	</Package>
+	<Package name="Notifications">
+		<Key ID="STR_NOTF_NE_1">
+			<French>You do not have $%1 for a %2</French>
+		</Key>
+		<Key ID="STR_NOTF_B_1">
+			<French>You bought a %1 for $%2</French>
+		</Key>
+		<Key ID="STR_NOTF_Arrested_1">
+			<French>%1 was arrested by %2</French>
+		</Key>
+		<Key ID="STR_NOTF_Fishing">
+			<French>You caught a %1</French>
+		</Key>
+		<Key ID="STR_NOTF_CaughtTurtle">
+			<French>You have taken some turtle meat</French>
+		</Key>
+		<Key ID="STR_NOTF_Earned_1">
+			<French>You have earned $%1</French>
+		</Key>
+		<Key ID="STR_NOTF_NetDrop">
+			<French>Dropping fishing net...</French>
+		</Key>
+		<Key ID="STR_NOTF_NetDropFail">
+			<French>Didn't catch any fish...</French>
+		</Key>
+		<Key ID="STR_NOTF_NetUp">
+			<French>Fishing net pulled up.</French>
+		</Key>
+		<Key ID="STR_NOTF_InvFull">
+			<French>Votre inventaire est plein !</French>
+		</Key>
+		<Key ID="STR_NOTF_Gathering">
+			<French>Ramassage %1...</French>
+		</Key>
+		<Key ID="STR_GatherSub">
+			<French>Recherche en cours...</French>
+		</Key>
+		<Key ID="STR_GatherSub2">
+			<French>Recherche terminée.</French>
+		</Key>
+		<Key ID="STR_NOTF_ChopSoldCar">
+			<French>You have sold a %1 for $%2</French>
+		</Key>
+		<Key ID="STR_NOTF_Picked">
+			<French>You have picked %1 %2</French>
+		</Key>
+		<Key ID="STR_NOTF_Collected">
+			<French>You have collected some %1</French>
+		</Key>
+		<Key ID="STR_NOTF_HS_NoCash">
+			<French>You do not have $%1 to be healed</French>
+		</Key>
+		<Key ID="STR_NOTF_HS_Healing">
+			<French>Please stay still</French>
+		</Key>
+		<Key ID="STR_NOTF_HS_ToFar">
+			<French>You need to be within 5m while the doctor is healing you</French>
+		</Key>
+		<Key ID="STR_NOTF_HS_Healed">
+			<French>You are now fully healed.</French>
+		</Key>
+		<Key ID="STR_NOTF_BeingImpounded">
+			<French>%1 your %2 is being impounded by the police.</French>
+		</Key>
+		<Key ID="STR_NOTF_Impounding">
+			<French>Impounding Vehicle</French>
+		</Key>
+		<Key ID="STR_NOTF_ImpoundingCancelled">
+			<French>Impounding has been cancelled.</French>
+		</Key>
+		<Key ID="STR_NOTF_Impounded">
+			<French>You have impounded a %1\n\nYou have received $%2 for cleaning up the streets !</French>
+		</Key>
+		<Key ID="STR_NOTF_HasImpounded">
+			<French>%1 has impounded %2's %3</French>
+		</Key>
+		<Key ID="STR_NOTF_AbortESC">
+			<French>Abort available in %1</French>
+		</Key>
+		<Key ID="STR_NOTF_DeviceIsMining">
+			<French>This vehicle is already mining</French>
+		</Key>
+		<Key ID="STR_NOTF_DeviceFull">
+			<French>The vehicle is full</French>
+		</Key>
+		<Key ID="STR_NOTF_notNearResource">
+			<French>You are not near a resource field</French>
+		</Key>
+		<Key ID="STR_NOTF_MiningStopped">
+			<French>You cannot turn the vehicle on when mining</French>
+		</Key>
+		<Key ID="STR_NOTF_DeviceMining">
+			<French>The Device is mining...</French>
+		</Key>
+		<Key ID="STR_NOTF_DeviceMined">
+			<French>Completed cycle, the device has mined %1</French>
+		</Key>
+		<Key ID="STR_NOTF_OutOfFuel">
+			<French>Vehicle is out of fuel</French>
+		</Key>
+		<Key ID="STR_NOTF_SpikeStrip">
+			<French>You have packed up the spike strip.</French>
+		</Key>
+		<Key ID="STR_NOTF_Barrier">
+			<French>You have packed up the barrier.</French>
+		</Key>
+		<Key ID="STR_NOTF_PickedEvidence">
+			<French>%1 has been placed in evidence, you have received $%2 as a reward.</French>
+		</Key>
+		<Key ID="STR_NOTF_PickedMoney">
+			<French>You have picked up $%1</French>
+		</Key>
+		<Key ID="STR_NOTF_Bail_Post">
+			<French>You must wait at least 3 minutes in jail before paying a bail.</French>
+		</Key>
+		<Key ID="STR_NOTF_Bail_NotEnough">
+			<French>You do not have $%1 in your bank account to pay bail.</French>
+		</Key>
+		<Key ID="STR_NOTF_Bail_Bailed">
+			<French>%1 has posted bail !</French>
+		</Key>
+		<Key ID="STR_NOTF_VehicleNear">
+			<French>There isn't a vehicle nearby...</French>
+		</Key>
+		<Key ID="STR_NOTF_Restrained">
+			<French>%1 a été menotté par %2</French>
+		</Key>
+		<Key ID="STR_NOTF_Searching">
+			<French>Recherche en cours...</French>
+		</Key>
+		<Key ID="STR_NOTF_SearchVehFail">
+			<French>Couldn't search the vehicle</French>
+		</Key>
+		<Key ID="STR_NOTF_VehCheat">
+			<French>This vehicle has no information, it was probably spawned in through cheats. \n\nDeleting vehicle.</French>
+		</Key>
+		<Key ID="STR_NOTF_Action">
+			<French>You are already doing an action. Please wait for it to end.</French>
+		</Key>
+		<Key ID="STR_NOTF_Unrestrain">
+			<French>%1 a été démenotté par %2</French>
+		</Key>
+		
+		<Key ID="STR_NOTF_Robbed">
+			<French>%1 a perquisitionné %2 pour un montant de $%3 en cash.</French>
+		</Key>
+		<Key ID="STR_pAct_RobPerson">
+			<French>Perquisitionner cash $</French>
+		</Key>
+		<Key ID="STR_pAct_SeizePerson">
+			<French>Saisir armes illégales</French>
+		</Key>
+		<Key ID="STR_NOTF_RobFail">
+			<French>%1 n'a pas une thune sur lui...</French>
+		</Key>
+		<Key ID="STR_NOTF_VehContraband">
+			<French>A vehicle was searched and has $%1 worth of drugs / contraband.</French>
+		</Key>
+		<Key ID="STR_NOTF_PulledOut">
+			<French>Vous avez été sortie du véhicule.</French>
+		</Key>
+		<Key ID="STR_NOTF_GivenItem">
+			<French>%1 has gave you %2 %3</French>
+		</Key>
+		<Key ID="STR_NOTF_GivenMoney">
+			<French>%1 has given you $%2</French>
+		</Key>
+		<Key ID="STR_NOTF_SendingData">
+			<French>Sending information to server please wait.....</French>
+		</Key>
+		<Key ID="STR_NOTF_ActionCancel">
+			<French>Action annulée...</French>
+		</Key>
+		<Key ID="STR_NOTF_ActionInProc">
+			<French>Cette action est déjà en cours de traitement...</French>
+		</Key>
+		<Key ID="STR_NOTF_NoSpace">
+			<French>Vous ne disposez pas de suffisamment d'espace.</French>
+		</Key>
+		<Key ID="STR_NOTF_NotEnoughMoney">
+			<French>Cette transaction necessite plus de fonds.</French>
+		</Key>
+		<Key ID="STR_NOTF_NotACop">
+			<French>Vous n'êtes pas militaire.</French>
+		</Key>
+		<Key ID="STR_NOTF_NoRoom">
+			<French>Vous ne disposez pas de suffisamment d'espace pour stocker cet article.</French>
+		</Key>
+		<Key ID="STR_NOTF_ProcessWOLicense">
+ 			<French>Vous avez besoin de $%1 pour traiter sans licence.</French>
+		</Key>
+ 		<Key ID="STR_NOTF_RapidAction">
+ 			<French>You can't rapidly use action keys !</French>
+ 		</Key>
+ 		<Key ID="STR_NOTF_NotEnoughFunds">
+ 			<French>You do not have enough funds in your bank account</French>
+		</Key>
+ 		<Key ID="STR_NOTF_CouldntAdd">
+ 			<French>Couldn't add it to your inventory.</French>
+		</Key>
+		<Key ID="STR_NOTF_EatMSG_1">
+ 			<French>You haven't eaten anything in awhile, You should find something to eat soon !</French>
+		</Key>
+ 		<Key ID="STR_NOTF_EatMSG_2">
+ 			<French>You are starting to starve, you need to find something to eat otherwise you will die.</French>
+		</Key>
+ 		<Key ID="STR_NOTF_EatMSG_3">
+ 			<French>You are now starving to death, you will die very soon if you don't eat something</French>
+		</Key>
+ 		<Key ID="STR_NOTF_EatMSG_Death">
+ 			<French>You have starved to death.</French>
+		</Key>
+ 		<Key ID="STR_NOTF_DrinkMSG_1">
+ 			<French>You haven't drank anything in awhile, You should find something to drink soon.</French>
+		</Key>
+ 		<Key ID="STR_NOTF_DrinkMSG_2">
+ 			<French>You haven't drank anything in along time, you should find something to drink soon or you'll start to die from dehydration.</French>
+		</Key>
+ 		<Key ID="STR_NOTF_DrinkMSG_3">
+ 			<French>You are now suffering from severe dehydration find something to drink quickly !</French>
+		</Key>
+ 		<Key ID="STR_NOTF_DrinkMSG_Death">
+ 			<French>You have died from dehydration.</French>
+		</Key>
+ 		<Key ID="STR_NOTF_MaxWeight">
+ 			<French>You are over carrying your max weight ! You will not be able to run or move fast till you drop some items !</French>
+		</Key>
+ 		<Key ID="STR_NOTF_SearchVeh">
+ 			<French>&lt;t color='#FF0000'&gt;&lt;t size='2'&gt;Vehicle Info&lt;/t&gt;&lt;/t&gt;&lt;br/&gt;&lt;t color='#FFD700'&gt;&lt;t size='1.5'&gt;Owners&lt;/t&gt;&lt;/t&gt;&lt;br/&gt; %1</French>
+		</Key>
+ 		<Key ID="STR_NOTF_CannotSearchPerson">
+			<French>Cannot search that person.</French>
+		</Key>
+		<Key ID="STR_NOTF_Repairing">
+ 			<French>Repairing %1</French>
+		</Key>
+ 		<Key ID="STR_NOTF_RepairingInVehicle">
+ 			<French>You must be outside of the vehicle to fix it. Sorry that this prevents you from exploiting the system, well not really.</French>
+		</Key>
+ 		<Key ID="STR_NOTF_RepairedVehicle">
+ 			<French>You have repaired that vehicle.</French>
+ 		</Key>
+ 		<Key ID="STR_NOTF_Gather_Success">
+			<French>You have gathered %2 %1(s)</French>
+		</Key>
+		<Key ID="STR_NOTF_GatherVeh">
+			<French>You can't gather from inside a car !</French>
+		</Key>
+		<Key ID="STR_NOTF_NoLootingPerson">
+			<French>You are not allowed to loot dead bodies</French>
+		</Key>
+	</Package>
+	<Package name="Jail_Strings">
+		<Key ID="STR_Jail_Warn">
+			<French>You have been arrested, wait your time out. If you attempt to respawn or reconnect your time will increase !</French>
+		</Key>
+		<Key ID="STR_Jail_LicenseNOTF">
+			<French>For being arrested you have lost the following licenses if you own them\n\nFirearms License\nRebel License</French>
+		</Key>
+		<Key ID="STR_Jail_EscapeNOTF">
+			<French>%1 has escaped from jail !</French>
+		</Key>
+		<Key ID="STR_Jail_EscapeSelf">
+			<French>You have escaped from jail, you still retain your previous crimes and now have a count of escaping jail.</French>
+		</Key>
+		<Key ID="STR_Jail_Released">
+			<French>You have served your time in jail and have been released.</French>
+		</Key>
+		<Key ID="STR_Jail_Time">
+			<French>Time remaining :</French>
+		</Key>
+		<Key ID="STR_Jail_Pay">
+			<French>Can pay bail :</French>
+		</Key>
+		<Key ID="STR_Jail_Price">
+			<French>Bail price :</French>
+		</Key>
+		<Key ID="STR_Jail_Paid">
+			<French>You have paid your bail and are now free.</French>
+		</Key>
+	</Package>
+	<Package name="Civ_Strings">
+		<Key ID="STR_Civ_LicenseRemove_1">
+			<French>You have lost all your motor vehicle licenses for vehicular manslaughter.</French>
+		</Key>
+		<Key ID="STR_Civ_LicenseRemove_2">
+			<French>You have lost your firearms license for manslaughter.</French>
+		</Key>
+		<Key ID="STR_Civ_RobFail">
+			<French>They didn't have any cash...</French>
+		</Key>
+		<Key ID="STR_Civ_Robbed">
+			<French>Vous venez de perquisitionner $%1</French>
+		</Key>
+		<Key ID="STR_Civ_VaultEmpty">
+			<French>The safe is empty !</French>
+		</Key>
+		<Key ID="STR_Civ_VaultInUse">
+			<French>Someone is already accessing the safe..</French>
+		</Key>
+		<Key ID="STR_Civ_NotEnoughCops">
+			<French>There needs to be 5 or more militarys online to continue.</French>
+		</Key>
+		<Key ID="STR_Civ_SafeInv">
+			<French>Safe Inventory</French>
+		</Key>
+		<Key ID="STR_Civ_SelectItem">
+			<French>You need to select an item !</French>
+		</Key>
+		<Key ID="STR_Civ_IsntEnoughGold">
+			<French>There isn't %1 gold bar(s) in the safe !</French>
+		</Key>
+		<Key ID="STR_Civ_KnockedOut">
+			<French>message client 1</French>
+		</Key>
+	</Package>
+	<Package name="Cop_Strings">
+		<Key ID="STR_Cop_TicketError">
+			<French>Couldn't open the ticketing interface</French>
+		</Key>
+		<Key ID="STR_Cop_Ticket">
+			<French>Ticketing %1</French>
+		</Key>
+		<Key ID="STR_Cop_TicketNil">
+			<French>Person to ticket is nil</French>
+		</Key>
+		<Key ID="STR_Cop_TicketExist">
+			<French>Person to ticket doesn't exist.</French>
+		</Key>
+		<Key ID="STR_Cop_TicketNum">
+			<French>You didn't enter actual number.</French>
+		</Key>
+		<Key ID="STR_Cop_TicketOver100">
+			<French>Tickets can not be more than $200,000 !</French>
+		</Key>
+		<Key ID="STR_Cop_TicketGive">
+			<French>%1 gave a ticket of $%2 to %3</French>
+		</Key>	
+		<Key ID="STR_Cop_Ticket_NotEnough">
+			<French>You don't have enough money in your bank account or on you to pay the ticket.</French>
+		</Key>
+		<Key ID="STR_Cop_Ticket_NotEnoughNOTF">
+			<French>%1 couldn't pay the ticket due to not having enough money.</French>
+		</Key>
+		<Key ID="STR_Cop_Ticket_Paid">
+			<French>You have paid the ticket of $%1</French>
+		</Key>
+		<Key ID="STR_Cop_Ticket_PaidNOTF">
+			<French>%1 paid the ticket of $%2</French>
+		</Key>
+		<Key ID="STR_Cop_Ticket_PaidNOTF_2">
+			<French>%1 paid the ticket.</French>
+		</Key>
+		<Key ID="STR_Cop_Ticket_GUI_Given">
+			<French>%1 has given you a ticket for $%2</French>
+		</Key>
+		<Key ID="STR_Cop_Ticket_Refuse">
+			<French>%1 refused to pay the ticket.</French>
+		</Key>
+		<Key ID="STR_Cop_BountyRecieve">
+			<French>You have collected a bounty of $%1 for arresting a criminal.</French>
+		</Key>
+		<Key ID="STR_Cop_BountyKill">
+			<French>You have collected a bounty of $%1 for killing a wanted criminal, if you had arrested him you would of received $%2</French>
+		</Key>
+		<Key ID="STR_Cop_Contraband">
+			<French>%1 has $%2 worth of contraband on them.</French>
+		</Key>
+		<Key ID="STR_Cop_IllegalItems">
+			<French>Illegal Items</French>
+		</Key>
+		<Key ID="STR_Cop_Robber">
+			<French>%1 was identified as the bank robber !</French>
+		</Key>
+		<Key ID="STR_Cop_NoIllegal">
+			<French>No illegal items</French>
+		</Key>
+		<Key ID="STR_Cop_NotaDoor">
+			<French>You are not near a door !</French>
+		</Key>
+		<Key ID="STR_Cop_EnablePiP">
+			<French>You need to enable Picture in Picture (PiP) through your video settings to use this !</French>
+		</Key>
+		<Key ID="STR_Cop_Licenses">
+			<French>Licenses :</French>
+		</Key>
+		<Key ID="STR_Cop_NoLicenses">
+			<French>No Licenses</French>
+		</Key>
+		<Key ID="STR_Cop_NoIllegalVeh">
+			<French>Nothing illegal in this vehicle</French>
+		</Key>
+		<Key ID="STR_Cop_VehEmpty">
+			<French>This vehicle is empty</French>
+		</Key>
+		<Key ID="STR_Cop_RobberDead">
+			<French>$%1 from the Federal Reserve robbery was returned from the robber being killed.</French>
+		</Key>
+		<Key ID="STR_Cop_RepairVault">
+			<French>Repairing vault...</French>
+		</Key>
+		<Key ID="STR_Cop_VaultRepaired">
+			<French>The vault is now fixed and re-secured.</French>
+		</Key>
+		<Key ID="STR_Cop_VaultLocked">
+			<French>The vault is already locked?</French>
+		</Key>
+		<Key ID="STR_Cop_VaultUnder1">
+			<French>You can't enter anything below 1 !</French>
+		</Key>
+		<Key ID="STR_Cop_OnlyGold">
+			<French>You can't store anything but wad of tickets in the safe.</French>
+		</Key>
+		<Key ID="STR_Cop_NotEnoughGold">
+			<French>You don't have %1 wad of tickets.</French>
+		</Key>
+		<Key ID="STR_Cop_CantRemove">
+			<French>Couldn't remove the item(s) from your inventory to put in the safe.</French>
+		</Key>
+		<Key ID="STR_Cop_CouldntSearch">
+			<French>Couldn't search %1</French>
+		</Key>
+		<Key ID="STR_Cop_RepairingDoor">
+			<French>Repairing Door...</French>
+		</Key>
+		<Key ID="STR_Cop_NoLicensesFound">
+			<French>No Licenses&lt;br/&gt;</French>
+		</Key>
+		<Key ID="STR_Cop_DealerQuestion">
+			<French>No one has sold to this dealer recently.</French>
+		</Key>
+		<Key ID="STR_Cop_DealerMSG">
+			<French>The following people have been selling to this dealer recently.</French>
+		</Key>
+		<Key ID="STR_Cop_Radar">
+			<French>Radar</French>
+		</Key>
+		<Key ID="STR_Cop_VehSpeed">
+			<French>Vehicle Speed %1 km/h</French>
+		</Key>
+		<Key ID="STR_Cop_ExcessiveRestrain">
+			<French>You have been released automatically for excessive restrainment time</French>
+		</Key>
+		<Key ID="STR_Cop_Retrained">
+			<French>Vous avez été menotté par %1</French>
+		</Key>
+	</Package>
+	<Package name="MISC_Strings">
+		<Key ID="STR_MISC_TooMuch">
+			<French>You tried to give %1 %2 %3 but they couldn't hold that so it was returned.</French>
+		</Key>
+		<Key ID="STR_MISC_TooMuch_2">
+			<French>%1 returned %2 %3 because they couldn't hold that amount.</French>
+		</Key>
+		<Key ID="STR_MISC_TooMuch_3">
+			<French>%1 has gave you %2 but you can only hold %3 so %4 was returned back.</French>
+		</Key>
+		<Key ID="STR_MISC_AttachmentMSG">
+			<French>Do you want to add this item to your weapon or inventory? If you add it to your weapon your current existing attachment will be lost !</French>
+		</Key>
+		<Key ID="STR_MISC_Attachment">
+			<French>Attachment slot taken !</French>
+		</Key>
+		<Key ID="STR_MISC_Weapon">
+			<French>Weapon</French>
+		</Key>
+		<Key ID="STR_MISC_Inventory">
+			<French>Inventory</French>
+		</Key>
+		<Key ID="STR_MISC_Backpack">
+			<French>You are not allowed to look into someone's backpack !</French>
+		</Key>
+		<Key ID="STR_MISC_VehInventory">
+			<French>You are not allowed to access this vehicle while its locked.</French>
+		</Key>
+		<Key ID="STR_MISC_VehInvUse">
+			<French>This vehicle's trunk is in use, only one person can use it at a time.</French>
+		</Key>
+		<Key ID="STR_MISC_DialogError">
+			<French>Failed Creating Dialog</French>
+		</Key>
+		<Key ID="STR_MISC_VehUnlock">
+			<French>Véhicule : déverrouillé</French>
+		</Key>
+		<Key ID="STR_MISC_VehLock">
+			<French>Véhicule : verrouillé</French>
+		</Key>
+		<Key ID="STR_MISC_SirensON">
+			<French>Siréne : activée</French>
+		</Key>
+		<Key ID="STR_MISC_SirensOFF">
+			<French>Siréne : désactivée</French>
+		</Key>
+		<Key ID="STR_MISC_NoStorageWarn">
+			<French>Vous devez installer un/des coffre(s) (disponibles dans les marchés) pour avoir d'avantage d'espace de stockage.</French>
+		</Key>
+		<Key ID="STR_MISC_NoStorageVeh">
+			<French>Ce véhicule ne peut pas stocker d'objet vituel</French>
+		</Key>
+		<Key ID="STR_MISC_Weight">
+			<French>Stockage Slot(s) :</French>
+		</Key>
+		<Key ID="STR_MISC_HouseStorage">
+			<French>Stockage Maison</French>
+		</Key>
+		<Key ID="STR_MISC_VehStorage">
+			<French>Vehicle Trunk</French>
+		</Key>
+		<Key ID="STR_MISC_VehDoesntExist">
+			<French>The vehicle either doesn't exist or is destroyed.</French>
+		</Key>
+		<Key ID="STR_MISC_WrongNumFormat">
+			<French>Invalid Number format</French>
+		</Key>
+		<Key ID="STR_MISC_Under1">
+			<French>You can't enter anything below 1 !</French>
+		</Key>
+		<Key ID="STR_MISC_NotEnough">
+			<French>The vehicle doesn't have that many of that item.</French>
+		</Key>
+	</Package>
+	<Package name="Housing_Strings">
+		<Key ID="STR_House_ContainerError">
+			<French>Error saving container, couldn't locate house?</French>
+		</Key>
+		<Key ID="STR_House_ContainerDeny">
+			<French>You are not allowed to access this storage container without the owner opening it.</French>
+		</Key>
+		<Key ID="STR_House_Door_Unlock">
+			<French>You have unlocked the door.</French>
+		</Key>
+		<Key ID="STR_House_Door_Lock">
+			<French>You have locked the door.</French>
+		</Key>
+		<Key ID="STR_House_Door_NotNear">
+			<French>You are not near a door !</French>
+		</Key>
+		<Key ID="STR_House_Sell_Process">
+			<French>This house was recently sold and is still processing in the database.</French>
+		</Key>
+		<Key ID="STR_House_License">
+			<French>BBoy Games réserve le Housing à ses membres Premium. Informations supplémentaires : wwww.bboygm.com</French>
+		</Key>
+		<Key ID="STR_House_Max_House">
+			<French>You can only own %1 houses at a time.</French>
+		</Key>
+		<Key ID="STR_House_NotEnough">
+			<French>Vos moyens sont insuffisants.</French>
+		</Key>
+		<Key ID="STR_House_BuyMSG">
+			<French>This house is available for &lt;t color='#8cff9b'&gt;$%1&lt;/t&gt;&lt;br/&gt;It supports up to %2 storage containers</French>
+		</Key>
+		<Key ID="STR_House_Purchase">
+			<French>Purchase House</French>
+		</Key>
+		<Key ID="STR_House_Raid_NoOwner">
+			<French>This house doesn't belong to anyone.</French>
+		</Key>
+		<Key ID="STR_House_Raid_OwnerOff">
+			<French>This person is not online there for you cannot raid their house !</French>
+		</Key>
+		<Key ID="STR_House_Raid_DoorUnlocked">
+			<French>La porte est a déjà été ouverte.</French>
+		</Key>
+		<Key ID="STR_House_Raid_Progress">
+			<French>Breaking lock on door</French>
+		</Key>
+		<Key ID="STR_House_Raid_NOTF">
+			<French>%1 your house is being raided by the militarys !</French>
+		</Key>
+		<Key ID="STR_House_Raid_Owner">
+			<French>House Owner</French>
+		</Key>
+		<Key ID="STR_House_Raid_Nothing">
+			<French>There is nothing in this house.</French>
+		</Key>
+		<Key ID="STR_House_Raid_Searching">
+			<French>Searching House...</French>
+		</Key>
+		<Key ID="STR_House_Raid_TooFar">
+			<French>You went too far away from the house !</French>
+		</Key>
+		<Key ID="STR_House_Raid_Successful">
+			<French>A house was raided and had $%1 worth of drugs.</French>
+		</Key>
+		<Key ID="STR_House_Raid_NoIllegal">
+			<French>Nothing illegal in this house.</French>
+		</Key>
+		<Key ID="STR_House_LockingUp">
+			<French>Locking up house please wait...</French>
+		</Key>
+		<Key ID="STR_House_LockedUp">
+			<French>House has been locked up.</French>
+		</Key>
+		<Key ID="STR_House_SellHouseMSG">
+			<French>Êtes-vous certain de vouloir vendre votre maison pour &lt;t color='#8cff9b'&gt;$%1&lt;/t&gt;</French>
+		</Key>
+	</Package>
+	<Package name="Life_Items">
+		<Key ID="STR_Item_Apple">
+			<French>Pomme</French>
+		</Key>
+		<Key ID="STR_Item_Psilocybe">
+			<French>Psilocybe</French>
+		</Key>
+		<Key ID="STR_Item_Peach">
+			<French>Pêche</French>
+		</Key>
+		<Key ID="STR_Item_OilU">
+			<French>Pétrole Brut</French>
+		</Key>
+		<Key ID="STR_Item_OilP">
+			<French>Pétrole Raffiné</French>
+		</Key>
+		<Key ID="STR_Item_WineU">
+			<French>Grappe Raisin</French>
+		</Key>
+		<Key ID="STR_Item_WineP">
+			<French>Vin 75cl</French>
+		</Key>
+		<Key ID="STR_Item_TabaccoU">
+			<French>Feuilles Tabac</French>
+		</Key>
+		<Key ID="STR_Item_TabaccoP">
+			<French>Tabac Haché/Seché</French>
+		</Key>
+		<Key ID="STR_Item_WoodU">
+			<French>Bois Brut</French>
+		</Key>
+		<Key ID="STR_Item_WoodP">
+			<French>Bille Bois</French>
+		</Key>
+		<Key ID="STR_Item_UraniumU">
+			<French>Minerai Uranium</French>
+		</Key>
+		<Key ID="STR_Item_UraniumP">
+			<French>Uranium 235</French>
+		</Key>
+		<Key ID="STR_Item_UraniumP2">
+			<French>Uranium 238</French>
+		</Key>
+		<Key ID="STR_Item_OliveU">
+			<French>Olive</French>
+		</Key>
+		<Key ID="STR_Item_OliveP">
+			<French>Huile Olive</French>
+		</Key>
+		<Key ID="STR_Item_WheatU">
+			<French>Blé</French>
+		</Key>
+		<Key ID="STR_Item_WheatP">
+			<French>Farine</French>
+		</Key>
+		<Key ID="STR_Item_HeroinU">
+			<French>Pavot</French>
+		</Key>
+		<Key ID="STR_Item_HeroinP">
+			<French>Base Morphine</French>
+		</Key>
+		<Key ID="STR_Item_HeroinP2">
+			<French>Héroïne</French>
+		</Key>
+		<Key ID="STR_Item_Opium">
+			<French>Opium</French>
+		</Key>
+		<Key ID="STR_Item_Cannabis">
+			<French>Cannabis</French>
+		</Key>
+		<Key ID="STR_Item_Marijuana">
+			<French>Marijuana</French>
+		</Key>
+		<Key ID="STR_Item_Hashish">
+			<French>Haschich</French>
+		</Key>
+		<Key ID="STR_Item_Crack">
+			<French>Crack</French>
+		</Key>
+		<Key ID="STR_Item_RabbitGrilled">
+			<French>Lapin Grillé</French>
+		</Key>
+		<Key ID="STR_Item_WaterBottle">
+			<French>Bouteille Eau</French>
+		</Key>
+		<Key ID="STR_Item_CocaBottle">
+			<French>Bouteille Coca</French>
+		</Key>
+		<Key ID="STR_Item_FuelE">
+			<French>Jerrican (vide)</French>
+		</Key>
+		<Key ID="STR_Item_FuelF">
+			<French>Jerrican (plein)</French>
+		</Key>
+		<Key ID="STR_Item_Pickaxe">
+			<French>Pioche</French>
+		</Key>
+		<Key ID="STR_Item_Axe">
+			<French>Hache</French>
+		</Key>
+		<Key ID="STR_Item_Shovel">
+			<French>Pelle</French>
+		</Key>
+		<Key ID="STR_Item_Hoe">
+			<French>Faux</French>
+		</Key>
+		<Key ID="STR_Item_Secateurs">
+			<French>Paire Sécateurs</French>
+		</Key>
+		<Key ID="STR_Item_ABomb">
+			<French>Bombe-A 15Kt</French>
+		</Key>
+		<Key ID="STR_Item_ABomb2">
+			<French>Valise Nucléaire</French>
+		</Key>
+		<Key ID="STR_Item_Handcuffs">
+			<French>Menottes</French>
+		</Key>
+		<Key ID="STR_Item_IronOre">
+			<French>Minerai Fer</French>
+		</Key>
+		<Key ID="STR_Item_IronIngot">
+			<French>Lingot Fer</French>
+		</Key>
+		<Key ID="STR_Item_CopperOre">
+			<French>Minerai Cuivre</French>
+		</Key>
+		<Key ID="STR_Item_CopperIngot">
+			<French>Lingot Cuivre</French>
+		</Key>
+		<Key ID="STR_Item_Sand">
+			<French>Sable</French>
+		</Key>
+		<Key ID="STR_Item_Salt">
+			<French>Sel Brut</French>
+		</Key>
+		<Key ID="STR_Item_SaltR">
+			<French>Sel Raffiné</French>
+		</Key>
+		<Key ID="STR_Item_Glass">
+			<French>Verre</French>
+		</Key>
+		<Key ID="STR_Item_DiamondU">
+			<French>Minerai Diamant</French>
+		</Key>
+		<Key ID="STR_Item_DiamondC">
+			<French>Diamant Brut</French>
+		</Key>
+		<Key ID="STR_Item_DiamondC2">
+			<French>Diamond Taillé</French>
+		</Key>
+		<Key ID="STR_Item_TBacon">
+			<French>Lard Salé</French>
+		</Key>
+		<Key ID="STR_Item_RedGull">
+			<French>RedGull</French>
+		</Key>
+		<Key ID="STR_Item_Lockpick">
+			<French>Outils Crochetage</French>
+		</Key>
+		<Key ID="STR_Item_Rock">
+			<French>Pierre</French>
+		</Key>
+		<Key ID="STR_Item_CementBag">
+			<French>Sac Ciment</French>
+		</Key>
+		<Key ID="STR_Item_GoldBarU">
+			<French>Minerai Or</French>
+		</Key>
+		<Key ID="STR_Item_GoldBar">
+			<French>Lingot Or</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_1K">
+			<French>$1,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_2K">
+			<French>$2,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_3K">
+			<French>$3,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_4K">
+			<French>$4,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_5K">
+			<French>$5,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_6K">
+			<French>$6,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_7K">
+			<French>$7,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_8K">
+			<French>$8,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_9K">
+			<French>$9,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_10K">
+			<French>$10,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_20K">
+			<French>$20,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_30K">
+			<French>$30,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_40K">
+			<French>$40,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_50K">
+			<French>$50,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_60K">
+			<French>$60,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_70K">
+			<French>$70,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_80K">
+			<French>$80,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_90K">
+			<French>$90,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_100K">
+			<French>$100,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_200K">
+			<French>$200,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_300K">
+			<French>$300,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_400K">
+			<French>$400,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_500K">
+			<French>$500,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_600K">
+			<French>$600,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_700K">
+			<French>$700,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_800K">
+			<French>$800,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_900K">
+			<French>$900,000</French>
+		</Key>
+		<Key ID="STR_Item_Dollars_1M">
+			<French>$1,000,000</French>
+		</Key>
+		<Key ID="STR_Item_BCharge">
+			<French>Charge Explosive</French>
+		</Key>
+		<Key ID="STR_Item_BCharge2">
+			<French>Bombe Start</French>
+		</Key>
+		<Key ID="STR_Item_BCharge3">
+			<French>Bombe 50km/h</French>
+		</Key>
+		<Key ID="STR_Item_BCharge4">
+			<French>Bombe Side-Pass</French>
+		</Key>
+		<Key ID="STR_Item_BCharge5">
+			<French>Bombe Tilt</French>
+		</Key>
+		<Key ID="STR_Item_BCutter">
+			<French>Coupe-Boulons</French>
+		</Key>
+		<Key ID="STR_Item_DefuseKit">
+			<French>Outils Désamorcage</French>
+		</Key>
+		<Key ID="STR_Item_StorageBS">
+			<French>Petit Coffre</French>
+		</Key>
+		<Key ID="STR_Item_StorageBL">
+			<French>Grand Coffre</French>
+		</Key>
+		<Key ID="STR_Item_CocaineU">
+			<French>Coca</French>
+		</Key>
+		<Key ID="STR_Item_CocaineP">
+			<French>Cocaïne</French>
+		</Key>
+		<Key ID="STR_Item_Antiquity">
+			<French>Antiquité</French>
+		</Key>
+		<Key ID="STR_Item_Antiquity2">
+			<French>Antiquité Contrebande</French>
+		</Key>
+		<Key ID="STR_Item_SpikeStrip">
+			<French>Herse</French>
+		</Key>
+		<Key ID="STR_Item_Barrier">
+			<French>Barrière Sécu.</French>
+		</Key>
+	</Package>
+	<Package name="Life_License">
+		<Key ID="STR_License_premW">
+			<French>Armes Premium</French>
+		</Key>
+		<Key ID="STR_License_premV">
+			<French>Véhicules Premium</French>
+		</Key>
+		<Key ID="STR_License_Home">
+			<French>Propriété Premium</French>
+		</Key>
+		<Key ID="STR_License_Boat">
+			<French>Permis Bateau</French>
+		</Key>
+		<Key ID="STR_License_Driver">
+			<French>Permis Voiture</French>
+		</Key>
+		<Key ID="STR_License_Truck">
+			<French>Permis Camion</French>
+		</Key>
+		<Key ID="STR_License_Pilot">
+			<French>Licence Vol</French>
+		</Key>
+		<Key ID="STR_License_Revive">
+			<French>Brevet Secourisme</French>
+		</Key>
+		<Key ID="STR_License_Firearm">
+			<French>Licence Tir</French>
+		</Key>
+		<Key ID="STR_License_Rebel">
+			<French>Entraînement Rebelle</French>
+		</Key>
+		<Key ID="STR_License_RebelT">
+			<French>Rebelle Provisoire</French>
+		</Key>
+		<Key ID="STR_License_Wine">
+			<French>Formation Viticole</French>
+		</Key>
+		<Key ID="STR_License_Oil">
+			<French>Formation Pétrole</French>
+		</Key>
+		<Key ID="STR_License_Tabacco">
+			<French>Formation Tabac</French>
+		</Key>
+		<Key ID="STR_License_Wood">
+			<French>Formation Bois</French>
+		</Key>
+		<Key ID="STR_License_Uranium">
+			<French>Formation Uranium 235</French>
+		</Key>
+		<Key ID="STR_License_Uranium2">
+			<French>Formation Uranium 238</French>
+		</Key>
+		<Key ID="STR_License_Olive">
+			<French>Formation Olive</French>
+		</Key>
+		<Key ID="STR_License_Wheat">
+			<French>Formation Farine</French>
+		</Key>
+		<Key ID="STR_License_Iron">
+			<French>Formation Fer</French>
+		</Key>
+		<Key ID="STR_License_Gold">
+			<French>Formation Or</French>
+		</Key>
+		<Key ID="STR_License_Copper">
+			<French>Formation Cuivre</French>
+		</Key>
+		<Key ID="STR_License_Salt">
+			<French>Formation Sel</French>
+		</Key>
+		<Key ID="STR_License_Sand">
+			<French>Formation Verre</French>
+		</Key>
+		<Key ID="STR_License_Cement">
+			<French>Formation Ciment</French>
+		</Key>
+		<Key ID="STR_License_Diamond">
+			<French>Formation Diamant (1)</French>
+		</Key>
+		<Key ID="STR_License_Diamond2">
+			<French>Formation Diamant (2)</French>
+		</Key>
+		<Key ID="STR_License_Marijuana">
+			<French>Formation Marijuana</French>
+		</Key>
+		<Key ID="STR_License_Hashish">
+			<French>Formation Haschich</French>
+		</Key>
+		<Key ID="STR_License_Heroin">
+			<French>Formation B.Morphine</French>
+		</Key>
+		<Key ID="STR_License_Heroin2">
+			<French>Formation Héroïne</French>
+		</Key>
+		<Key ID="STR_License_Opium">
+			<French>Formation Opium</French>
+		</Key>
+		<Key ID="STR_License_Cocaine">
+			<French>Formation Cocaïne</French>
+		</Key>
+		<Key ID="STR_License_Crack">
+			<French>Formation Crack</French>
+		</Key>
+		<Key ID="STR_License_BMarket">
+			<French>Pass Marché Noir</French>
+		</Key>
+		<Key ID="STR_License_CarCop">
+			<French>Entraînement Conduite</French>
+		</Key>
+		<Key ID="STR_License_TankCop">
+			<French>Entraînement Chars</French>
+		</Key>
+		<Key ID="STR_License_AirCop">
+			<French>Entraînement Pilote</French>
+		</Key>
+		<Key ID="STR_License_BoatCop">
+			<French>Entraînement Bateau</French>
+		</Key>
+		<Key ID="STR_License_ADM">
+			<French>Pass Administration</French>
+		</Key>
+	</Package>
+	<Package name="More_Item_Strings">
+		<Key ID="STR_ISTR_Blast_VaultOnly">
+			<French>This can only be used on a vault.</French>
+		</Key>
+		<Key ID="STR_ISTR_Blast_AlreadyPlaced">
+			<French>There is already a charge placed on this vault.</French>
+		</Key>
+		<Key ID="STR_ISTR_Blast_AlreadyOpen">
+			<French>The vault is already opened.</French>
+		</Key>
+		<Key ID="STR_ISTR_Blast_Placed">
+			<French>A blasting charge has been placed on the federal reserves vault, You have till the clock runs out to disarm the charge !</French>
+		</Key>
+		<Key ID="STR_ISTR_Blast_KeepOff">
+			<French>The timer is ticking ! Keep the militarys away from the vault !</French>
+		</Key>
+		<Key ID="STR_ISTR_Blast_Disarmed">
+			<French>The charge has been disarmed !</French>
+		</Key>
+		<Key ID="STR_ISTR_Blast_Opened">
+			<French>The vault is now opened</French>
+		</Key>
+		<Key ID="STR_ISTR_Bolt_NotNear">
+			<French>You are not looking at a house door.</French>
+		</Key>
+		<Key ID="STR_ISTR_Bolt_AlertFed">
+			<French>! ! ! SOMEONE IS BREAKING INTO THE FEDERAL RESERVE ! ! !</French>
+		</Key>
+		<Key ID="STR_ISTR_Bolt_AlertHouse">
+			<French>%1 was seen breaking into a house.</French>
+		</Key>
+		<Key ID="STR_ISTR_Bolt_Process">
+			<French>Cutting lock on door</French>
+		</Key>
+		<Key ID="STR_ISTR_Defuse_Nothing">
+			<French>There is no charge on the vault ?</French>
+		</Key>
+		<Key ID="STR_ISTR_Defuse_Process">
+			<French>Defusing charge...</French>
+		</Key>
+		<Key ID="STR_ISTR_Defuse_Success">
+			<French>The charge has been defused</French>
+		</Key>
+		<Key ID="STR_ISTR_Jerry_NotLooking">
+			<French>You need to look at the vehicle you want to refuel !</French>
+		</Key>
+		<Key ID="STR_ISTR_Jerry_NotNear">
+			<French>You need to be closer to the vehicle !</French>
+		</Key>
+		<Key ID="STR_ISTR_Jerry_Process">
+			<French>Refuelling %1</French>
+		</Key>
+		<Key ID="STR_ISTR_Jerry_Success">
+			<French>You have refuelled that %1</French>
+		</Key>
+		<Key ID="STR_ISTR_Lock_AlreadyHave">
+			<French>This vehicle is already in your key-chain.</French>
+		</Key>
+		<Key ID="STR_ISTR_Lock_Process">
+			<French>Lock-picking %1</French>
+		</Key>
+		<Key ID="STR_ISTR_Lock_TooFar">
+			<French>You got to far away from the target.</French>
+		</Key>
+		<Key ID="STR_ISTR_Lock_Success">
+			<French>You now have keys to this vehicle.</French>
+		</Key>
+		<Key ID="STR_ISTR_Pick_NotNear">
+			<French>You are not near a mine !</French>
+		</Key>
+		<Key ID="STR_ISTR_Pick_MineVeh">
+			<French>You can't mine from inside a car !</French>
+		</Key>
+		<Key ID="STR_ISTR_Pick_Success">
+			<French>You have mined %2 %1</French>
+		</Key>
+		<Key ID="STR_ISTR_Spike_Place">
+			<French>Placer Herse</French>
+		</Key>
+		<Key ID="STR_ISTR_Barrier">
+			<French>Placer Barrière</French>
+		</Key>
+		<Key ID="STR_ISTR_Spike_Pack">
+			<French>Reprendre Herse</French>
+		</Key>
+		<Key ID="STR_ISTR_Barrier_Pack">
+			<French>Reprendre Barrière</French>
+		</Key>
+		<Key ID="STR_ISTR_Box_NotinHouse">
+			<French>You need to be inside your house to place this.</French>
+		</Key>
+		<Key ID="STR_ISTR_Box_HouseFull">
+			<French>You cannot place any more storage containers in your house.</French>
+		</Key>
+		<Key ID="STR_ISTR_Box_HouseFull_2">
+			<French>No more free storage spaces in your house.</French>
+		</Key>
+		<Key ID="STR_ISTR_SelectItemFirst">
+			<French>You need to select an item first !</French>
+		</Key>
+		<Key ID="STR_ISTR_RedGullEffect">
+			<French>Vous pouvez sprinter 8 minutes à compter de cet instant !</French>
+		</Key>
+		<Key ID="STR_ISTR_SpikesDeployment">
+			<French>You already have a Spike Strip active in deployment</French>
+		</Key>
+		<Key ID="STR_ISTR_BarrierDeployment">
+			<French>You already have a Barrier active in deployment</French>
+		</Key>
+		<Key ID="STR_ISTR_RefuelInVehicle">
+			<French>You can't refuel the vehicle while in it !</French>
+		</Key>
+		<Key ID="STR_ISTR_NotUsable">
+			<French>This item isn't usable.</French>
+		</Key>
+	</Package>
+	<Package name="Process_Action">
+		<Key ID="STR_Process_Oil">
+			<French>Traitement Pétrole</French>
+		</Key>
+		<Key ID="STR_Process_Wine">
+			<French>Traitement Raisin</French>
+		</Key>
+		<Key ID="STR_Process_Tabacco">
+			<French>Traitement Tabac</French>
+		</Key>
+		<Key ID="STR_Process_Wood">
+			<French>Traitement Bois</French>
+		</Key>
+		<Key ID="STR_Process_Uranium">
+			<French>Traitement Minerai d'Uranium</French>
+		</Key>
+		<Key ID="STR_Process_Uranium2">
+			<French>Traitement Uranium 235</French>
+		</Key>
+		<Key ID="STR_Process_ABomb">
+			<French>Construction Bombe-A</French>
+		</Key>
+		<Key ID="STR_Process_ABomb2">
+			<French>Construction Valise Nucléaire</French>
+		</Key>
+		<Key ID="STR_Process_Olive">
+			<French>Traitement Olives</French>
+		</Key>
+		<Key ID="STR_Process_Wheat">
+			<French>Traitement Farine</French>
+		</Key>
+		<Key ID="STR_Process_Salt">
+			<French>Traitement Sel</French>
+		</Key>
+		<Key ID="STR_Process_Sand">
+			<French>Traitement Sable</French>
+		</Key>
+		<Key ID="STR_Process_Cement">
+			<French>Traitement Pierre</French>
+		</Key>
+		<Key ID="STR_Process_Diamond">
+			<French>Traitement Diamants (1)</French>
+		</Key>
+		<Key ID="STR_Process_Diamond2">
+			<French>Traitement Diamants (2)</French>
+		</Key>
+		<Key ID="STR_Process_Heroin">
+			<French>Traitement Pavots</French>
+		</Key>
+		<Key ID="STR_Process_Heroin2">
+			<French>Traitement B.Morphine</French>
+		</Key>
+		<Key ID="STR_Process_Opium">
+			<French>Traitement B.Morphine</French>
+		</Key>
+		<Key ID="STR_Process_Iron">
+			<French>Traitement Fer</French>
+		</Key>
+		<Key ID="STR_Process_GoldBar">
+			<French>Traitement Or</French>
+		</Key>
+		<Key ID="STR_Process_Copper">
+			<French>Traitement Cuivre</French>
+		</Key>
+		<Key ID="STR_Process_Cocaine">
+			<French>Traitement Coca</French>
+		</Key>
+		<Key ID="STR_Process_Crack">
+			<French>Traitement Cocaïne</French>
+		</Key>
+		<Key ID="STR_Process_Marijuana">
+			<French>Traitement Marijuana</French>
+		</Key>
+		<Key ID="STR_Process_Hashish">
+			<French>Traitement Haschich</French>
+		</Key>
+		<Key ID="STR_Process_BMarket">
+			<French>Transaction en cours :</French>
+		</Key>
+		<Key ID="STR_Process_Stay">
+			<French>Ne vous éloignez pas à plus de 10 mètres pour continuer à traîter.</French>
+		</Key>
+		<Key ID="STR_Process_License">
+			<French>Vous avez besoin de $%1 pour traîter sans licence.</French>
+		</Key>
+		<Key ID="STR_Process_Processed">
+			<French>Vous avez traité %1 %2</French>
+		</Key>
+		<Key ID="STR_Process_Processed2">
+			<French>Vous avez traité %1 %2 pour $%3</French>
+		</Key>
+	</Package>
+	<Package name="Medical_Strings">
+		<Key ID="STR_Medic_Respawn">
+			<French>Vous pourrez réapparaître dans %1</French>
+		</Key>
+		<Key ID="STR_Medic_Respawn_2">
+			<French>Vous pouvez maintenant réapparaître.</French>
+		</Key>
+		<Key ID="STR_Medic_AlreadyReviving">
+			<French>Someone else is already reviving this person</French>
+		</Key>
+		<Key ID="STR_Medic_Progress">
+			<French>Réanimation du joueur %1</French>
+		</Key>
+		<Key ID="STR_Medic_RevivedRespawned">
+			<French>Cette personne est décédé.</French>
+		</Key>
+		<Key ID="STR_Medic_TooFar">
+			<French>You got to far away from the body.</French>
+		</Key>
+	</Package>
+	<Package name="Other_GUI_Stuff">
+		<Key ID="STR_GUI_Garage">
+			<French>Garage</French>
+		</Key>
+		<Key ID="STR_GUI_YourVeh">
+			<French>Mes Véhicules</French>
+		</Key>
+		<Key ID="STR_GUI_VehInfo">
+			<French>Informations</French>
+		</Key>
+		<Key ID="STR_GUI_PlayerReveal">
+			<French>Automatically reveals nearest objects within 15m, turn this setting off if you are experiencing performance issues.</French>
+		</Key>
+		<Key ID="STR_GUI_PlayTags">
+			<French>Controls whether or not players will have name tags above their head.</French>
+		</Key>
+		<Key ID="STR_GUI_ShopStock">
+			<French>Stock Magasin</French>
+		</Key>
+	</Package>
+	<Package name="Player_Interaction">
+		<Key ID="STR_pInAct_Title">
+			<French>Intéraction Joueur</French>
+		</Key>
+		<Key ID="STR_pInAct_PutInCar">
+			<French>Rentrer Joueur</French>
+		</Key>
+		<Key ID="STR_pInAct_Unrestrain">
+			<French>Démenotter</French>
+		</Key>
+		<Key ID="STR_pInAct_checkLicenses">
+			<French>Licences</French>
+		</Key>
+		<Key ID="STR_pInAct_SearchPlayer">
+			<French>Chercher Joueur(s)</French>
+		</Key>
+		<Key ID="STR_pInAct_StopEscort">
+			<French>Stop Escorte</French>
+		</Key>
+		<Key ID="STR_pInAct_Escort">
+			<French>Escorter</French>
+		</Key>
+		<Key ID="STR_pInAct_TicketBtn">
+			<French>Amende</French>
+		</Key>
+		<Key ID="STR_pInAct_Arrest">
+			<French>Prison</French>
+		</Key>
+		<Key ID="STR_pInAct_Repair">
+			<French>Réparer Porte</French>
+		</Key>
+		<Key ID="STR_pInAct_CloseOpen">
+			<French>Ouvrir/Fermer</French>
+		</Key>
+		<Key ID="STR_pInAct_BreakDown">
+			<French>Forcer Porte</French>
+		</Key>
+		<Key ID="STR_pInAct_SearchHouse">
+			<French>Chercher Maison</French>
+		</Key>
+		<Key ID="STR_pInAct_LockHouse">
+			<French>Vérrouiller Maison</French>
+		</Key>
+		<Key ID="STR_pInAct_BuyHouse">
+			<French>Acheter Propriété</French>
+		</Key>
+		<Key ID="STR_pInAct_SellGarage">
+			<French>Vendre Garage</French>
+		</Key>
+		<Key ID="STR_pInAct_AccessGarage">
+			<French>Garage</French>
+		</Key>
+		<Key ID="STR_pInAct_StoreVeh">
+			<French>Stocker Véhicule</French>
+		</Key>
+		<Key ID="STR_pInAct_SellHouse">
+			<French>Vendre Maison</French>
+		</Key>
+		<Key ID="STR_pInAct_UnlockStorage">
+			<French>Ouvrir Coffre</French>
+		</Key>
+		<Key ID="STR_pInAct_LockStorage">
+			<French>Fermer Coffre</French>
+		</Key>
+		<Key ID="STR_pInAct_LightsOff">
+			<French>Éteindre</French>
+		</Key>
+		<Key ID="STR_pInAct_LightsOn">
+			<French>Allumer</French>
+		</Key>
+		<Key ID="STR_pInAct_DepositToGang">
+			<French>Transfert Gang</French>
+		</Key>
+	</Package>
+	<Package name="Vehicle_Interaction">
+		<Key ID="STR_vInAct_Title">
+			<French>Intéraction Véhicule</French>
+		</Key>
+		<Key ID="STR_vInAct_Unflip">
+			<French>Débug Véhicule</French>
+		</Key>
+		<Key ID="STR_vInAct_PushBoat">
+			<French>Pousser Bateau</French>
+		</Key>
+		<Key ID="STR_vInAct_Repair">
+			<French>Réparer Véhicule</French>
+		</Key>
+		<Key ID="STR_vInAct_Registration">
+			<French>Carte Grise</French>
+		</Key>
+		<Key ID="STR_vInAct_SearchVehicle">
+			<French>Fouiller Véhicule</French>
+		</Key>
+		<Key ID="STR_vInAct_PullOut">
+			<French>Sortir Joueur</French>
+		</Key>
+		<Key ID="STR_vInAct_Impound">
+			<French>Mettre Fourrière</French>
+		</Key>
+		<Key ID="STR_vInAct_DeviceMine">
+			<French>Miner</French>
+		</Key>
+	</Package>
+	<Package name="Session_Strings">
+		<Key ID="STR_Session_Query">
+			<French>Sending request to server for player information UID [%1]</French>
+		</Key>
+		<Key ID="STR_Session_QueryFail">
+			<French>The server didn't find any player information matching your UID, attempting to add player to system.</French>
+		</Key>
+		<Key ID="STR_Session_Error">
+			<French>There was an error in trying to setup your client.</French>
+		</Key>
+		<Key ID="STR_Session_Received">
+			<French>Received request from server... Validating...</French>
+		</Key>
+		<Key ID="STR_Session_SyncdAlready">
+			<French>You have already used the sync option, you can only use this feature once every 1 minute.</French>
+		</Key>
+		<Key ID="STR_Session_SyncCheater">
+			<French>Because of some cheater corrupting the BIS MP Framework they have stopped you from enjoying our mission.\n\nYou can try this again in a minute if you feel it is a mistake.</French>
+		</Key>
+		<Key ID="STR_Session_SyncData">
+			<French>Syncing player information to the server.\n\nPlease wait up to 10 seconds before leaving.</French>
+		</Key>
+	</Package>
+	<Package name="Shop_Strings">
+		<Key ID="STR_Shop_ATMRobbed">
+			<French>Because you robbed the bank you can't use the ATM for 5 minutes.</French>
+		</Key>
+		<Key ID="STR_Shop_NoClothes">
+			<French>You didn't choose the clothes you wanted to buy.</French>
+		</Key>
+		<Key ID="STR_Shop_NotEnoughClothes">
+			<French>Sorry sir, you don't have enough money to buy those clothes.</French>
+		</Key>
+		<Key ID="STR_Shop_Total">
+			<French>Total:</French>
+		</Key>
+		<Key ID="STR_Shop_NoSelection">
+			<French>No Selection</French>
+		</Key>
+		<Key ID="STR_Shop_NoDisplay">
+			<French>No Display</French>
+		</Key>
+		<Key ID="STR_Shop_NoVehNear">
+			<French>There are no vehicles near to sell.</French>
+		</Key>
+		<Key ID="STR_Shop_ChopShopError">
+			<French>There was a problem opening the chop shop menu.</French>
+		</Key>
+		<Key ID="STR_Shop_ChopShopSelling">
+			<French>Selling vehicle please wait...</French>
+		</Key>
+		<Key ID="STR_Shop_NotaCiv">
+			<French>You need to be a civilian to use this store !</French>
+		</Key>
+		<Key ID="STR_Shop_NotaCop">
+			<French>You need to be a military to use this store !</French>
+		</Key>
+		<Key ID="STR_Shop_NotaReb">
+			<French>You don't have rebel training yet !</French>
+		</Key>
+		<Key ID="STR_Shop_YouNeed">
+			<French>You need a %1 to buy from this shop !</French>
+		</Key>
+		<Key ID="STR_Shop_UI_Clothing">
+			<French>Vêtements</French>
+		</Key>
+		<Key ID="STR_Shop_UI_Hats">
+			<French>Chapeaux</French>
+		</Key>
+		<Key ID="STR_Shop_UI_Glasses">
+			<French>Lunettes</French>
+		</Key>
+		<Key ID="STR_Shop_UI_Vests">
+			<French>Vestes</French>
+		</Key>
+		<Key ID="STR_Shop_UI_Backpack">
+			<French>Sacs</French>
+		</Key>
+		<Key ID="STR_Shop_Unimpound_VehExist">
+			<French>There is currently a car there.</French>
+		</Key>
+		<Key ID="STR_Shop_Unimpound_NotEnough">
+			<French>You do not have enough money on you or in your bank to get your car back.</French>
+		</Key>
+		<Key ID="STR_Shop_Unimpound_Success">
+			<French>You have unimpounded your %1 for $%3</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_DidntPick">
+			<French>You did not pick a vehicle !</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_NotEnough">
+			<French>You do not have enough cash to purchase this vehicle.\n\nAmount Lacking: $%1</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_NoLicense">
+			<French>You do not have the required license !</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_Block">
+			<French>There is a vehicle currently blocking the spawn point...</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_Bought">
+			<French>You bought a %1 for $%2</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_Rental">
+			<French>Prix Location :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_Ownership">
+			<French>Prix Achat :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_SellP">
+			<French>Prix Vente :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_MaxSpeed">
+			<French>Vitesse :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_HPower">
+			<French>Puissance :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_PSeats">
+			<French>Place(s) Passagers :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_Trunk">
+			<French>Capacité :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_Fuel">
+			<French>Carburant :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_Armor">
+			<French>Blindage :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_RetrievalP">
+			<French>Frais Garage :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_UI_Color">
+			<French>Couleur :</French>
+		</Key>
+		<Key ID="STR_Shop_Veh_NotAllowed">
+			<French>You are not allowed to use this shop !</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_Nothing">
+			<French>You need to select an item to buy.</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_NoNum">
+			<French>You didn't enter an actual number</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_NotEnough">
+			<French>You don't have that many items to sell !</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_Gang_FundsMSG">
+			<French>The gang has enough funds to pay for this, would you like to pay with the gangs funds or your own?</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_Gang_Funds">
+			<French>Fonds Gang :</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_YourFunds">
+			<French>Cash :</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_YourorGang">
+			<French>Pay with cash or gang funds</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_UI_GangFunds">
+			<French>Fonds Gang</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_UI_YourCash">
+			<French>Cash</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_BoughtGang">
+			<French>Vous avez vendu : %1 %2 pour : $%3 with the gangs funds</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_BoughtItem">
+			<French>Vous avez acheté : %1 %2 pour : $%3</French>
+		</Key>
+		<Key ID="STR_Shop_Virt_SellItem">
+			<French>Vous avez vendu : %1 %2 pour : $%3</French>
+		</Key>
+		<Key ID="STR_Shop_Weapon_NoSelect">
+			<French>Vous devez sélectionner l'objet que vous souhaitez vendre/acheter.</French>
+		</Key>
+		<Key ID="STR_Shop_Weapon_Sold">
+			<French>Vous avez vendu : %1 pour : &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</French>
+		</Key>
+		<Key ID="STR_Shop_Weapon_BoughtGang">
+			<French>Vous venez d'acquérir : %1 pour : &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt; avec les fonds de votre gang.</French>
+		</Key>
+		<Key ID="STR_Shop_Weapon_BoughtItem">
+			<French>Vous venez d'acquérir : %1 pour : &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</French>
+		</Key>
+		<Key ID="STR_Shop_Weapon_ShopInv">
+			<French>Inventaire Magasin</French>
+		</Key>
+		<Key ID="STR_Shop_Weapon_YourInv">
+			<French>Mon Inventaire</French>
+		</Key>
+	</Package>
+	<Package name="FSM_Strings">
+		<Key ID="STR_FSM_Paycheck">
+			<French>Vous recevrez une prochaine prime dans %1 minutes.</French>
+		</Key>
+		<Key ID="STR_FSM_MissedPay">
+			<French>Vous semblez mort. Les morts ne touchent pas de prime.</French>
+		</Key>
+		<Key ID="STR_FSM_ReceivedPay">
+			<French>Vous venez de percevoir une prime de $%1</French>
+		</Key>
+	</Package>
+	<Package name="Player_Actions">
+	
+	</Package>
+	<Package name="Crimes">
+		<Key ID="STR_Crime_1">
+			<French>Sans eclairage de nuit</French>
+		</Key>
+		<Key ID="STR_Crime_2">
+			<French>Licence(s) manquante(s)</French>
+		</Key>
+		<Key ID="STR_Crime_3">
+			<French>Excès de vitesse</French>
+		</Key>
+		<Key ID="STR_Crime_4">
+			<French>Conduite dangereuse</French>
+		</Key>
+		<Key ID="STR_Crime_5">
+			<French>Conduite véhicule(s) volé(s)</French>
+		</Key>
+		<Key ID="STR_Crime_6">
+			<French>Délit de fuite</French>
+		</Key>
+		<Key ID="STR_Crime_7">
+			<French>Tentative d'homicide</French>
+		</Key>
+	<!--
+		<Key ID="STR_Crime_8">
+			<French></French>
+		</Key>
+		<Key ID="STR_Crime_9">
+			<French></French>
+		</Key>
+		<Key ID="STR_Crime_10">
+			<French></French>
+		</Key>
+		<Key ID="STR_Crime_11">
+			<French></French>
+		</Key>
+		<Key ID="STR_Crime_12">
+			<French></French>
+		</Key>
+		<Key ID="STR_Crime_13">
+			<French></French>
+		</Key>
+		<Key ID="STR_Crime_14">
+			<French></French>
+		</Key>
+	-->
+	</Package>
+</Project>

@@ -1,0 +1,2 @@
+[[],"life_fnc_seizePlayerWeaponAction",cursorTarget,false] spawn life_fnc_MP;
+[[52, player, format["%1 est saisi(e) par les autorités.", name cursorTarget]],"TON_fnc_logIt",false,false] spawn life_fnc_MP;
