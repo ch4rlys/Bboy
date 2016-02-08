@@ -7,10 +7,10 @@
 */
 
 if (playerSide == west) then {
-    if ((uniform player) == "U_Rangemaster") then
+    if ((uniform player) == "U_B_SpecopsUniform_sgg") then
     {
-        player setObjectTextureGlobal [0, "textures\cop.jpg"];
-        // [[player,"textures\cop.jpg"], "life_fnc_setUniform", true, true] spawn life_fnc_MP;
+        player setObjectTextureGlobal [0, "textures\Uniforme\Gendarmerie.jpg"];
+        // [[player,"textures\Uniforme\Gendarmerie.jpg"], "life_fnc_setUniform", true, true] spawn life_fnc_MP;
     };
     if ((uniform player) == "U_B_CombatUniform_mcam") then
     {
