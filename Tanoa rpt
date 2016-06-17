@@ -1,0 +1,2016 @@
+=====================================================================
+== D:\Steam\steamapps\common\Test serveur\arma3server.exe
+== "D:\Steam\steamapps\common\Test serveur\arma3server.exe"  -port=2315 "-config=D:\Steam\steamapps\common\Test serveur\TADST\ServeurTestinfi\TADST_config.cfg" "-cfg=D:\Steam\steamapps\common\Test serveur\TADST\ServeurTestinfi\TADST_basic.cfg" "-profiles=D:\Steam\steamapps\common\Test serveur\TADST\ServeurTestinfi" -name=ServeurTestinfi -filePatching -netlog "-mod=@extDB2;@life_server;Heli;Kart;Mark;@infiSTAR_A3" -autoInit
+
+Original output filename: Arma3Retail_Server
+Exe timestamp: 2016/06/13 14:01:28
+Current time:  2016/06/17 18:32:58
+
+Type: Public
+Build: Stable
+Version: 1.62.136802
+
+Allocator: D:\Steam\steamapps\common\Test serveur\dll\tbb4malloc_bi.dll
+=====================================================================
+
+18:32:58 SteamAPI initialization failed. Steam features wont's be accessible!
+18:32:59 Cannot register unknown string STR_MP_KICKED_SLOW_NETWORK
+18:32:59 Cannot register unknown string STR_OCULUSRIFT
+18:32:59 Initializing stats manager.
+18:32:59 Stats config disabled.
+18:32:59 sessionID: 8282e5b34efa875b682116bcafefa96b76812f8b
+18:33:16 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/
+18:33:16 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/
+18:33:16 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/
+18:33:16 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/
+18:33:16 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/
+18:33:16 Updating base class BlendAnims->, by a3\anims_f\config\sdr\weaponswitching\config.bin/CfgMovesMaleSdr/BlendAnims/
+18:33:16 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/
+18:33:16 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/
+18:33:16 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/
+18:33:16 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/
+18:33:16 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/
+18:33:16 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/
+18:33:16 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/
+18:33:16 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/
+18:33:16 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/
+18:33:16 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/
+18:33:16 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/
+18:33:16 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/
+18:33:16 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/
+18:33:16 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/
+18:33:16 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/
+18:33:16 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/
+18:33:16 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/
+18:33:16 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/
+18:33:16 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/
+18:33:16 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/
+18:33:16 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/
+18:33:16 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/
+18:33:16 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/
+18:33:16 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/
+18:33:16 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/
+18:33:16 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/
+18:33:16 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/
+18:33:16 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/
+18:33:16 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/
+18:33:16 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/
+18:33:16 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/
+18:33:16 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/
+18:33:16 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/
+18:33:16 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscInGameUI/RscTaskOverview/controls/TaskOverviewAssigned/
+18:33:16 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/
+18:33:16 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/
+18:33:16 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/
+18:33:16 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/
+18:33:16 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/
+18:33:16 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/
+18:33:16 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/
+18:33:16 Updating base class RscControlsGroup->RscControlsGroupNoHScrollbars, by a3\ui_f\config.bin/RscDisplayMain/controls/ModIcons/
+18:33:16 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/
+18:33:16 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/
+18:33:16 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/
+18:33:16 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/
+18:33:16 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/
+18:33:16 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/
+18:33:16 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/
+18:33:16 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/
+18:33:16 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/controls/ButtonCancel/
+18:33:16 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+18:33:16 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/
+18:33:16 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/
+18:33:16 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/
+18:33:16 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/
+18:33:16 Cannot update non class from class a3\ui_f\config.bin/RscCallSupport/Items/
+18:33:16 Cannot update non class from class a3\ui_f\config.bin/RscRadio/Items/
+18:33:16 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceMid/
+18:33:16 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceLong/
+18:33:16 Updating base class ->All, by a3\sounds_f\config.bin/CfgVehicles/Sound/
+18:33:16 Updating base class ->BlendAnims, by a3\soft_f_kart\kart_01\config.bin/CfgMovesMaleSdr/BlendAnims/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisable/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisableTiles/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisable/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisableTiles/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisable/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisableTiles/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisable/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisableTiles/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisable/
+18:33:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisableTiles/
+18:33:16 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_2/Controls/
+18:33:16 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_6/Controls/
+18:33:16 Updating base class ->Plane_Base_F, by a3\air_f_exp\config.bin/CfgVehicles/VTOL_Base_F/
+18:33:17 Initializing Steam Manager
+18:33:17 Steam Manager initialized.
+18:33:17 
+18:33:17 ==== Loaded addons ====
+18:33:17 
+18:33:17 dta\bin.pbo - unknown
+18:33:17 dta\core.pbo - 98397
+18:33:17 dta\languagecore_f.pbo - 101296
+18:33:17 D:\Steam\steamapps\common\Test serveur\@infiSTAR_A3\addons\a3_infistar.pbo - unknown
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\anims_f_mark.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\characters_f_mark.pbo - 100169
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\data_f_mark.pbo - 100892
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\dubbing_f_mark.pbo - 98398
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\dubbing_f_mp_mark.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\functions_f_mark.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\functions_f_mp_mark.pbo - 98862
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\languagemissions_f_mark.pbo - 100133
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\languagemissions_f_mp_mark.pbo - 101173
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\language_f_mark.pbo - 100133
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\language_f_mp_mark.pbo - 100133
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\missions_f_mark.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\missions_f_mark_data.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\missions_f_mark_video.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\missions_f_mp_mark.pbo - 100725
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\missions_f_mp_mark_data.pbo - 99084
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\modules_f_mark.pbo - 99085
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\modules_f_mp_mark.pbo - 100095
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\music_f_mark.pbo - 98422
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\music_f_mark_music.pbo - 99086
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\sounds_f_mark.pbo - 99087
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\static_f_mark.pbo - 98423
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\structures_f_mark.pbo - 99089
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\supplies_f_mark.pbo - 99089
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\ui_f_mark.pbo - 99090
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\ui_f_mp_mark.pbo - 99090
+18:33:17 D:\Steam\steamapps\common\Test serveur\Mark\addons\weapons_f_mark.pbo - 99090
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\anims_f_kart.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\characters_f_kart.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\data_f_kart.pbo - 100651
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\languagemissions_f_kart.pbo - 101046
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\language_f_kart.pbo - 100133
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\missions_f_kart.pbo - 100701
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\missions_f_kart_data.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\modules_f_kart.pbo - 99085
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\modules_f_kart_data.pbo - 99085
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\soft_f_kart.pbo - 99086
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\sounds_f_kart.pbo - 99086
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\structures_f_kart.pbo - 99087
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\ui_f_kart.pbo - 99090
+18:33:17 D:\Steam\steamapps\common\Test serveur\Kart\addons\weapons_f_kart.pbo - 99090
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\air_f_heli.pbo - 100981
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\anims_f_heli.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\boat_f_heli.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\cargoposes_f_heli.pbo - 101255
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\data_f_heli.pbo - 100892
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\dubbing_f_heli.pbo - 98398
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\functions_f_heli.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\languagemissions_f_heli.pbo - 101173
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\language_f_heli.pbo - 100133
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\missions_f_heli.pbo - 100701
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\missions_f_heli_data.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\missions_f_heli_video.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\modules_f_heli.pbo - 99085
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\music_f_heli.pbo - 98423
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\music_f_heli_music.pbo - 99086
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\soft_f_heli.pbo - 99086
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\sounds_f_heli.pbo - 99086
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\structures_f_heli.pbo - 99087
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\supplies_f_heli.pbo - 99089
+18:33:17 D:\Steam\steamapps\common\Test serveur\Heli\addons\ui_f_heli.pbo - 99090
+18:33:17 D:\Steam\steamapps\common\Test serveur\@life_server\addons\life_server.pbo - unknown
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\air_f_exp.ebo - 101368
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\anims_f_exp.ebo - 101294
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\armor_f_exp.ebo - 101169
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\boat_f_exp.ebo - 101293
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\cargoposes_f_exp.ebo - 101252
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\characters_f_exp.ebo - 101364
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\data_f_exp.ebo - 101273
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\dubbing_radio_f_exp.ebo - 101169
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\dubbing_radio_f_exp_data_chi.ebo - 101169
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\dubbing_radio_f_exp_data_engfre.ebo - 101169
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\dubbing_radio_f_exp_data_fre.ebo - 101170
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\editorpreviews_f_exp.ebo - 101170
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\language_f_exp.ebo - 101368
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\map_data_exp.ebo - 100772
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\map_tanoabuka.ebo - 101332
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\map_tanoabuka_data.ebo - 101333
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\map_tanoabuka_data_layers.ebo - 101333
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\map_tanoabuka_data_layers_00_00.ebo - 101333
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\map_tanoa_scenes_f.ebo - 100697
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\music_f_exp.ebo - 101172
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\music_f_exp_music.ebo - 101172
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\props_f_exp.ebo - 101223
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\rocks_f_exp.ebo - 100984
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\soft_f_exp.ebo - 101296
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\sounds_f_exp.ebo - 101362
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\static_f_exp.ebo - 101172
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\structures_f_exp.ebo - 101351
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\structures_f_exp_civilian.ebo - 101255
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\structures_f_exp_commercial.ebo - 101255
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\structures_f_exp_cultural.ebo - 100984
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\structures_f_exp_data.ebo - 101255
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\structures_f_exp_industrial.ebo - 101236
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\structures_f_exp_infrastructure.ebo - 101236
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\supplies_f_exp.ebo - 101172
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\ui_f_exp.ebo - 101381
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\vegetation_f_exp.ebo - 101234
+18:33:17 D:\Steam\steamapps\common\Test serveur\expansion\addons\weapons_f_exp.ebo - 101370
+18:33:17 D:\Steam\steamapps\common\Test serveur\curator\addons\data_f_curator.pbo - 101187
+18:33:17 D:\Steam\steamapps\common\Test serveur\curator\addons\functions_f_curator.pbo - 99082
+18:33:17 D:\Steam\steamapps\common\Test serveur\curator\addons\language_f_curator.pbo - 101203
+18:33:17 D:\Steam\steamapps\common\Test serveur\curator\addons\missions_f_curator.pbo - 100698
+18:33:17 D:\Steam\steamapps\common\Test serveur\curator\addons\modules_f_curator.pbo - 99085
+18:33:17 D:\Steam\steamapps\common\Test serveur\curator\addons\ui_f_curator.pbo - 100702
+18:33:17 addons\3den.pbo - 100892
+18:33:17 addons\3den_language.pbo - 100648
+18:33:17 addons\a3.pbo - unknown
+18:33:17 addons\air_f.pbo - 99988
+18:33:17 addons\air_f_beta.pbo - 100272
+18:33:17 addons\air_f_epb.pbo - 99941
+18:33:17 addons\air_f_epc.pbo - 98395
+18:33:17 addons\air_f_gamma.pbo - 98395
+18:33:17 addons\animals_f.pbo - 100090
+18:33:17 addons\animals_f_beta.pbo - 100090
+18:33:17 addons\anims_f.pbo - 100288
+18:33:17 addons\anims_f_bootcamp.pbo - 99081
+18:33:17 addons\anims_f_data.pbo - 98480
+18:33:17 addons\anims_f_epa.pbo - 99082
+18:33:17 addons\anims_f_epc.pbo - 99082
+18:33:17 addons\anims_f_exp_a.pbo - 99908
+18:33:17 addons\armor_f.pbo - 99082
+18:33:17 addons\armor_f_beta.pbo - 101172
+18:33:17 addons\armor_f_epb.pbo - 99082
+18:33:17 addons\armor_f_epc.pbo - 99082
+18:33:17 addons\armor_f_gamma.pbo - 99082
+18:33:17 addons\baseconfig_f.pbo - 99080
+18:33:17 addons\boat_f.pbo - 99082
+18:33:17 addons\boat_f_beta.pbo - 99082
+18:33:17 addons\boat_f_epc.pbo - 99082
+18:33:17 addons\boat_f_gamma.pbo - 99082
+18:33:17 addons\cargoposes_f.pbo - 100772
+18:33:17 addons\characters_f.pbo - 101172
+18:33:17 addons\characters_f_beta.pbo - 101172
+18:33:17 addons\characters_f_bootcamp.pbo - 100169
+18:33:17 addons\characters_f_epa.pbo - 99082
+18:33:17 addons\characters_f_epb.pbo - 99082
+18:33:17 addons\characters_f_epc.pbo - 99082
+18:33:17 addons\characters_f_gamma.pbo - 99374
+18:33:17 addons\data_f.pbo - 101272
+18:33:17 addons\data_f_bootcamp.pbo - 100892
+18:33:17 addons\data_f_exp_a.pbo - 99082
+18:33:17 addons\data_f_exp_b.pbo - 98643
+18:33:17 addons\drones_f.pbo - 100981
+18:33:17 addons\dubbing_f.pbo - 98398
+18:33:17 addons\dubbing_f_beta.pbo - 98398
+18:33:17 addons\dubbing_f_bootcamp.pbo - 98398
+18:33:17 addons\dubbing_f_epa.pbo - 98398
+18:33:17 addons\dubbing_f_epb.pbo - 98398
+18:33:17 addons\dubbing_f_epc.pbo - 98398
+18:33:17 addons\dubbing_f_gamma.pbo - 98398
+18:33:17 addons\dubbing_radio_f.pbo - 99982
+18:33:17 addons\dubbing_radio_f_data_eng.pbo - 99078
+18:33:17 addons\dubbing_radio_f_data_engb.pbo - 99078
+18:33:17 addons\dubbing_radio_f_data_gre.pbo - 99078
+18:33:17 addons\dubbing_radio_f_data_per.pbo - 99078
+18:33:17 addons\dubbing_radio_f_data_vr.pbo - 99078
+18:33:17 addons\editorpreviews_f.pbo - 99556
+18:33:17 addons\editor_f.pbo - 99082
+18:33:17 addons\functions_f.pbo - 101296
+18:33:17 addons\functions_f_bootcamp.pbo - 101296
+18:33:17 addons\functions_f_epa.pbo - 99082
+18:33:17 addons\functions_f_epc.pbo - 99082
+18:33:17 addons\functions_f_exp_a.pbo - 99082
+18:33:17 addons\languagemissions_f.pbo - 100133
+18:33:17 addons\languagemissions_f_beta.pbo - 101022
+18:33:17 addons\languagemissions_f_bootcamp.pbo - 101022
+18:33:17 addons\languagemissions_f_epa.pbo - 100232
+18:33:17 addons\languagemissions_f_epb.pbo - 100133
+18:33:17 addons\languagemissions_f_epc.pbo - 100133
+18:33:17 addons\languagemissions_f_exp_a.pbo - 101022
+18:33:17 addons\languagemissions_f_gamma.pbo - 101022
+18:33:17 addons\language_f.pbo - 101172
+18:33:17 addons\language_f_beta.pbo - 100133
+18:33:17 addons\language_f_bootcamp.pbo - 100133
+18:33:17 addons\language_f_epa.pbo - 100229
+18:33:17 addons\language_f_epb.pbo - 100133
+18:33:17 addons\language_f_epc.pbo - 100133
+18:33:17 addons\language_f_exp_a.pbo - 100133
+18:33:17 addons\language_f_exp_b.pbo - 100133
+18:33:17 addons\language_f_gamma.pbo - 100133
+18:33:17 addons\map_altis.pbo - 100239
+18:33:17 addons\map_altis_data.pbo - 99740
+18:33:17 addons\map_altis_data_layers.pbo - 99901
+18:33:17 addons\map_altis_data_layers_00_00.pbo - 99901
+18:33:17 addons\map_altis_data_layers_00_01.pbo - 99901
+18:33:17 addons\map_altis_data_layers_01_00.pbo - 99901
+18:33:17 addons\map_altis_data_layers_01_01.pbo - 99901
+18:33:17 addons\map_altis_scenes_f.pbo - 100984
+18:33:17 addons\map_data.pbo - 100132
+18:33:17 addons\map_stratis.pbo - 100234
+18:33:17 addons\map_stratis_data.pbo - 99082
+18:33:17 addons\map_stratis_data_layers.pbo - 99082
+18:33:17 addons\map_stratis_scenes_f.pbo - 100984
+18:33:17 addons\map_vr.pbo - 98784
+18:33:17 addons\map_vr_scenes_f.pbo - 100984
+18:33:17 addons\misc_f.pbo - 99082
+18:33:17 addons\missions_f.pbo - 99082
+18:33:17 addons\missions_f_beta.pbo - 99082
+18:33:17 addons\missions_f_beta_data.pbo - 99082
+18:33:17 addons\missions_f_beta_video.pbo - 99082
+18:33:17 addons\missions_f_bootcamp.pbo - 99082
+18:33:17 addons\missions_f_bootcamp_data.pbo - 99082
+18:33:17 addons\missions_f_bootcamp_video.pbo - 99082
+18:33:17 addons\missions_f_data.pbo - 99082
+18:33:17 addons\missions_f_epa.pbo - 101083
+18:33:17 addons\missions_f_epa_data.pbo - 99082
+18:33:17 addons\missions_f_epa_video.pbo - 99082
+18:33:17 addons\missions_f_epb.pbo - 99082
+18:33:17 addons\missions_f_epc.pbo - 99082
+18:33:17 addons\missions_f_exp_a.pbo - 100703
+18:33:17 addons\missions_f_exp_a_data.pbo - 98702
+18:33:17 addons\missions_f_gamma.pbo - 99082
+18:33:17 addons\missions_f_gamma_data.pbo - 99082
+18:33:17 addons\missions_f_gamma_video.pbo - 99082
+18:33:17 addons\missions_f_video.pbo - 99084
+18:33:17 addons\modules_f.pbo - 98663
+18:33:17 addons\modules_f_beta.pbo - 99084
+18:33:17 addons\modules_f_beta_data.pbo - 99084
+18:33:17 addons\modules_f_bootcamp.pbo - 99085
+18:33:17 addons\modules_f_data.pbo - 99085
+18:33:17 addons\modules_f_epb.pbo - 99085
+18:33:17 addons\modules_f_exp_a.pbo - 99085
+18:33:17 addons\music_f.pbo - 99086
+18:33:17 addons\music_f_bootcamp.pbo - 98422
+18:33:17 addons\music_f_bootcamp_music.pbo - 99086
+18:33:17 addons\music_f_epa.pbo - 98422
+18:33:17 addons\music_f_epa_music.pbo - 99086
+18:33:17 addons\music_f_epb.pbo - 98422
+18:33:17 addons\music_f_epb_music.pbo - 99086
+18:33:17 addons\music_f_epc.pbo - 98423
+18:33:17 addons\music_f_epc_music.pbo - 99086
+18:33:17 addons\music_f_music.pbo - 99086
+18:33:17 addons\plants_f.pbo - 98423
+18:33:17 addons\props_f_exp_a.pbo - 99086
+18:33:17 addons\roads_f.pbo - 98423
+18:33:17 addons\rocks_f.pbo - 99030
+18:33:17 addons\signs_f.pbo - 99349
+18:33:17 addons\soft_f.pbo - 98851
+18:33:17 addons\soft_f_beta.pbo - 99086
+18:33:17 addons\soft_f_bootcamp.pbo - 99086
+18:33:17 addons\soft_f_epc.pbo - 99086
+18:33:17 addons\soft_f_gamma.pbo - 100005
+18:33:17 addons\sounds_f.pbo - 99745
+18:33:17 addons\sounds_f_arsenal.pbo - 99086
+18:33:17 addons\sounds_f_bootcamp.pbo - 99086
+18:33:17 addons\sounds_f_characters.pbo - 99086
+18:33:17 addons\sounds_f_environment.pbo - 99086
+18:33:17 addons\sounds_f_epb.pbo - 99086
+18:33:17 addons\sounds_f_epc.pbo - 99086
+18:33:17 addons\sounds_f_exp_a.pbo - 99086
+18:33:17 addons\sounds_f_sfx.pbo - 99087
+18:33:17 addons\sounds_f_vehicles.pbo - 99087
+18:33:17 addons\static_f.pbo - 99943
+18:33:17 addons\static_f_beta.pbo - 98423
+18:33:17 addons\static_f_gamma.pbo - 98423
+18:33:17 addons\structures_f.pbo - 100388
+18:33:17 addons\structures_f_bootcamp.pbo - 99087
+18:33:17 addons\structures_f_data.pbo - 100167
+18:33:17 addons\structures_f_epa.pbo - 99891
+18:33:17 addons\structures_f_epb.pbo - 99087
+18:33:17 addons\structures_f_epc.pbo - 99087
+18:33:17 addons\structures_f_exp_a.pbo - 99087
+18:33:17 addons\structures_f_households.pbo - 99087
+18:33:17 addons\structures_f_ind.pbo - 100637
+18:33:17 addons\structures_f_mil.pbo - 100984
+18:33:17 addons\structures_f_wrecks.pbo - 99089
+18:33:17 addons\uifonts_f.pbo - 99090
+18:33:17 addons\uifonts_f_data.pbo - 99090
+18:33:17 addons\ui_f.pbo - 101383
+18:33:17 addons\ui_f_bootcamp.pbo - 99090
+18:33:17 addons\ui_f_data.pbo - 101228
+18:33:17 addons\ui_f_exp_a.pbo - 99090
+18:33:17 addons\weapons_f.pbo - 101255
+18:33:17 addons\weapons_f_beta.pbo - 99090
+18:33:17 addons\weapons_f_bootcamp.pbo - 99090
+18:33:17 addons\weapons_f_epa.pbo - 99090
+18:33:17 addons\weapons_f_epb.pbo - 99090
+18:33:17 addons\weapons_f_epc.pbo - 99090
+18:33:17 addons\weapons_f_gamma.pbo - 99090
+18:33:17 
+18:33:17 =======================
+18:33:17 
+18:33:17 ============================================================================================= List of mods ===============================================================================================
+18:33:17 modsReadOnly = true
+18:33:17 safeModsActivated = false
+18:33:17 customMods = true
+18:33:17 hash = '4D2667D1326FA2C3D9D5E43CF067384648A28287'
+18:33:17 hashShort = '28da337'
+18:33:17                                               name |               modDir |    default |               origin |                                     hash | hashShort | fullPath
+18:33:17 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18:33:17                                       @infiSTAR_A3 |         @infiSTAR_A3 |      false |             GAME DIR | 0aceb100a7cb195c56f86a717ed10379da6289f5 |  1722b9e6 | D:\Steam\steamapps\common\Test serveur\@infiSTAR_A3
+18:33:17                                    Arma 3 Marksmen |                 Mark |       true |             GAME DIR | 712a72078c4f2cff7e6634753c58f30b3b0212a6 |  c621374f | D:\Steam\steamapps\common\Test serveur\Mark
+18:33:17                                       Arma 3 Karts |                 Kart |       true |             GAME DIR | d1cdcaa8f0600b304d1226f144660c820e23933f |  83125d6e | D:\Steam\steamapps\common\Test serveur\Kart
+18:33:17                                 Arma 3 Helicopters |                 Heli |       true |             GAME DIR | 9ce621e55aa13e7e925533f53a4fe69f033b389b |  f53557cc | D:\Steam\steamapps\common\Test serveur\Heli
+18:33:17                                       @life_server |         @life_server |      false |             GAME DIR | 70356efe60615d3cef6029263bdde93f892b6c39 |  50a430dd | D:\Steam\steamapps\common\Test serveur\@life_server
+18:33:17                                            @extDB2 |              @extDB2 |      false |             GAME DIR |                                          |           | D:\Steam\steamapps\common\Test serveur\@extDB2
+18:33:17                                  Arma 3 DLC Bundle |            dlcbundle |       true |            NOT FOUND |                                          |           | 
+18:33:17                                        Arma 3 Apex |            expansion |       true |             GAME DIR | 65e3a6699175cc5284e3fd1e0f6a5386f4f53e29 |  2b5580af | D:\Steam\steamapps\common\Test serveur\expansion
+18:33:17                                        Arma 3 Zeus |              curator |       true |             GAME DIR | b976dd8c453d12252be8035eaa9058d46aa73312 |  9ada6e39 | D:\Steam\steamapps\common\Test serveur\curator
+18:33:17                                             Arma 3 |                   A3 |       true |            NOT FOUND |                                          |           | 
+18:33:17 ==========================================================================================================================================================================================================
+18:33:17 InitSound ...
+18:33:17 InitSound - complete
+18:33:17 PhysX3 SDK Init started ...
+18:33:17 PhysX3 SDK Init ended.
+18:33:18 Attempt to override final function - rscminimap_script
+18:33:19 Attempt to override final function - rscdisplayloading_script
+18:33:19 Attempt to override final function - rscdisplayloading_script
+18:33:19 Attempt to override final function - rscdisplayloading_script
+18:33:19 Attempt to override final function - rscdiary_script
+18:33:19 Attempt to override final function - rscdisplaysinglemission_script
+18:33:19 Attempt to override final function - rscdiary_script
+18:33:19 Attempt to override final function - rscdisplayremotemissions_script
+18:33:19 Attempt to override final function - rscdisplayloading_script
+18:33:19 Attempt to override final function - rscdiary_script
+18:33:19 Attempt to override final function - rscdiary_script
+18:33:19 Attempt to override final function - rscdisplaystrategicmap_script
+18:33:19 Attempt to override final function - rscdisplaycommon_script
+18:33:19 Attempt to override final function - rscdisplaygarage_script
+18:33:19 Attempt to override final function - rscdisplayhostsettings_script
+18:33:19 Attempt to override final function - rscdisplayloading_script
+18:33:19 Attempt to override final function - rscdisplaycurator_script
+18:33:19 Attempt to override final function - display3deneditcomposition_script
+18:33:19 Attempt to override final function - display3deneditattributes_script
+18:33:19 Attempt to override final function - display3deneditattributes_script
+18:33:19 Attempt to override final function - rscdisplayhostsettings_script
+18:33:19 Attempt to override final function - rscdisplaycommon_script
+18:33:19 Attempt to override final function - rscdisplaydebriefing_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:19 Attempt to override final function - rscunitinfo_script
+18:33:20 VoteThreshold must be in 0..1 range. Defaulting to 0.5
+2016/06/17, 18:33:20 Initializing Steam server - Game Port: 2315, Steam Query Port: 2316
+2016/06/17, 18:33:20 Steam AppId from steam_appid.txt: 107410
+2016/06/17, 18:33:21 Unsupported language English in stringtable
+2016/06/17, 18:33:21 Unsupported language English in stringtable
+2016/06/17, 18:33:21 Mission RDB.Tanoa: Number of roles (171) is different from 'description.ext::Header::maxPlayer' (75)
+2016/06/17, 18:33:21 Starting mission:
+2016/06/17, 18:33:21  Mission file: RDB
+2016/06/17, 18:33:21  Mission world: Tanoa
+2016/06/17, 18:33:21  Mission directory: mpmissions\RDB.Tanoa\
+2016/06/17, 18:33:24 No more slot to add connection at 015030 (1523.6,3012.8)
+2016/06/17, 18:33:25 Unknown hit sound type in A3\data_f\Penetration\tyre.bisurf.soundHit
+2016/06/17, 18:33:26 Warning: Unaccessible ladder point for AI (already used for actionbegin2) in a3\structures_f_exp\commercial\shop_city_01\shop_city_01_f.p3d
+2016/06/17, 18:33:26 Warning: Unaccessible ladder point for AI (already used for actionbegin2) in a3\structures_f_exp\commercial\shop_city_01\shop_city_01_f.p3d
+2016/06/17, 18:33:26 Warning: Unaccessible ladder point for AI (already used for actionend2) in a3\structures_f_exp\commercial\shop_city_01\shop_city_01_f.p3d
+2016/06/17, 18:33:26 Warning: Unaccessible ladder point for AI (already used for actionend2) in a3\structures_f_exp\commercial\shop_city_01\shop_city_01_f.p3d
+2016/06/17, 18:33:33 Attempt to override final function - bis_functions_list
+2016/06/17, 18:33:33 Attempt to override final function - bis_functions_listpreinit
+2016/06/17, 18:33:33 Attempt to override final function - bis_functions_listpostinit
+2016/06/17, 18:33:33 Attempt to override final function - bis_functions_listrecompile
+2016/06/17, 18:33:33 Attempt to override final function - bis_fnc_missiontaskslocal
+2016/06/17, 18:33:33 Attempt to override final function - bis_fnc_missionconversationslocal
+2016/06/17, 18:33:33 Attempt to override final function - bis_fnc_missionflow
+2016/06/17, 18:33:33 "<infiSTAR.de> 0 - run.sqf - finaled EPOCH_server_isPAdmin: {true}"
+2016/06/17, 18:33:33 "<infiSTAR.de> 0 - run.sqf - including AntiHack"
+2016/06/17, 18:33:33 "<infiSTAR.de> VERSION: 15-Jun-2016 20-06-00 infiSTAR.de AHAT (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de> 0 - STARTING"
+2016/06/17, 18:33:33 "<infiSTAR.de> 0 - TESTING IF serverCommandPassword IS SET PROPERLY"
+2016/06/17, 18:33:33 "<infiSTAR.de> 0 - serverCommandPassword IS FINE"
+2016/06/17, 18:33:33 "<infiSTAR.de> _fnc_RandomGen: {  _fnc_actualGen = {   _abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];   _gen = _abc select (random ((count _abc)-1));   _arr = ['e','2','U','4','B','I','H','0','O','p','T','q','g','s','j','3','G','S','C','V','M','R','y','a','1','1','K','l','7','X'];   _randmax = {((round(random _randminval)) + (round(random _randmaxval))) max _randminval};   for '_i' from 0 to (call _randmax)do   {    _gen = _gen + str(round(random 9)) + (_arr select (random ((count _arr)-1)));   };  };  _gen = '';  while{_gen=='' || _gen in _allRandomGenVars}do{   call _fnc_actualGen;  };  _allRandomGenVars pushBack _gen;  _gen }"
+2016/06/17, 18:33:33 Unable to get file version size: .\ARMA_LOG.dll
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| ----START-LINE----   (15-Jun-2016 20-06-00 - v0239) (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _adminbox: v17815G4j3I8a372C373I9M9O82238H (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _fnc_mpPackets: y6T214O639C2q7q3q64717j6C6V7y9S6T7H4U6M (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _FNC_AH3004_KICKLOG: i9l719y1a4q6s876l (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _FNC_AH3004_KICKLOGSPAWN: n5R425a4R4a6R170O6R236K908e7I (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _FNC_PVAH_AdminReq: u4V4a6j5O0y4K836S5I (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _BigTokenArray: a7l3s7V2M2S5a4S6S0U (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _connectedArray: i2B515q318l3y3I0G (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _tokenSentArray: v6G2p8G5j8T2X7q47 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _server_setTokenR: u312K2O12777R1q3p604751 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _fnc_pvc_token: o212l1l478G3a1s2s (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _server_checkTokenR: j4T213V3X5C7O0l445K338g (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _YourPlayerToken: v111M676G42627R0V1y216g3j (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _TokenCT: t7H9V3O9G1V5V3X4T2M8y4j206U0I8y72 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AH_MAIN_BLOCK: z9C6V539R6O0S3g3U2K600y1B5O2K444R5U (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AHKickOFF: r3s4B9l6B1U8l628p1j2g7s6C5C22 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AH3004KICKLOG: x0O6l8K0p7M815K6V5y5y3a3T (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _FiredCheck: t1T313373426K105g2B8I2B7e6B4U1V0y7V2j4G (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _clientdo: p0S02407l1a8T2I4S846G211V609K3S7y7T102K8S (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AH_RunCheckENDVAR: o2l8K147T4e5y7O6X7R7I40021K8l (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AH_HackLogArrayRND: l421a0O5a4R0O4M7H (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AH_SurvLogArrayRND: t5G943327579g9V3q8X1C0T624G01 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AH_AdmiLogArrayRND: e52842g5q6B5G4B9X4X6I515C7O714I7T1R (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _TMPBAN: c7H647K809q7M9S7s9y2V8M113K (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _massMessage: s6C9g6I1a603p8U3G673a5s1S2T7M0l372B210G502G (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _massSysMessage: o1S6s5K9R204B8O3g740y4q1y3e (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AHpos: s8a7s212l9y2K1j516M238g3a (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _ninetwo: v5K9B3I8M1I9K3a7K9M8g (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _ninetwothread: d944O6T4p0O5s1s1H7e0V7a808H5R032R9R (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _adminsA: s8j4V7U6H5X8V4H5a7T6g5p9s8a516y1M7K11737M (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _MC: x771p5a3O5U4S321M2M205g5T41 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _MCS: j423l2K5T8q4K2U5y4T7l4C3j6K (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _oneachframe: x171C3V845M8R5g6R (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _checkidicheckcheck: q6y1M1X571q5j7G1R31537K3g9I532O2q5I (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _lastshotmade: n1M201S902C8l5j7R621a8R015R876e344184 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _dellocveh: s1q4K6C313g2p2G4l (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _inCombatTime: d7s7g4V6K5j6I7s03 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _inCombatArray: h5a5j2p7C727V0B20713e8l8B5y1U (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _fnc_infiKeyHandler: o848q1S777y2I2g8H219T536R223G (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _ButtonDownCnt: t5p2j9g548l4C1R90 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _ButtonDownTime: x2X3y8a4C1O122q6M112C (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _clickOnMapTimer: u1H5I3H2144804O878S9I1M848I (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _clickOnMapCaught: h5K33124T3y5S1M8p2O1y6V6l1s7s3q413a3172 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _MAKE_VAR_DUMP_RANDOM: v4V4U5a132G7U4G142s6j9K6I0K8G3K4O8I (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _MAKE_VAR_DUMP_CLIENT: y3M734K719O5H103K9g4T7y820y1T2M (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _DUMPINGPLAYERUIDARRAY: i547I514M9U8H3M61421U1H2R907p30 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _CURRENTLYDUMPING: r1B4j222M9R4s6e414j2B3G (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _customcommandingMenu: w7g3p5p2H7s2T6O97 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _customcommandingMenuOpen: i476R6p9p0j109l6j140I105s3R9p5S6K1R1I4I (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _LogicVariable: p0g2g2R112l9j1G5M (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _antiantihack_rndvar: k6K8y0M3O1q17306e (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _owner_by_uid: h8a5q204S210U7X738G5V038M82 (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _uid_by_owner: o7V204R6p101V3X3R6O9T1B2j0S4B1H432S4M (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _AH3004_KICKLOG: PVAHR_7x8j9b5y5d2j (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| _RequestToken: PVAHR_1l3o2n7u7m9h4x9l (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de>RandomVarLog| ----END-LINE----   (15-Jun-2016 20-06-00 - v0239) (v0239)"
+2016/06/17, 18:33:33 "<infiSTAR.de> 0 - loading AntiHack.."
+2016/06/17, 18:33:34 "<infiSTAR.de> 0 - Thread MAIN: starting!"
+2016/06/17, 18:33:34 "<infiSTAR.de> 0 - Thread MAIN: loading...!"
+2016/06/17, 18:33:34 "<infiSTAR.de> 0 - Thread MAIN: compiling and/or sending none-threaded code!"
+2016/06/17, 18:33:34 "<infiSTAR.de> 0 - Thread MAIN: none-threaded code compiled and/or sent!"
+2016/06/17, 18:33:34 "<infiSTAR.de> 0 - AntiHack loaded!"
+2016/06/17, 18:33:34 "<infiSTAR.de> 0 - run.sqf - AntiHack included!"
+2016/06/17, 18:33:34 "<infiSTAR.de> 0 - run.sqf - including AdminTools"
+2016/06/17, 18:33:34 "<infiSTAR.de> 0 - run.sqf - AdminTools included!"
+2016/06/17, 18:33:34 Wrong init state
+2016/06/17, 18:33:34   found in (69,113).
+2016/06/17, 18:33:34   found in (297,338).
+2016/06/17, 18:33:34   found in (186,346).
+2016/06/17, 18:33:34   found in (71,445).
+2016/06/17, 18:33:34   found in (77,441).
+2016/06/17, 18:33:34   found in (78,437).
+2016/06/17, 18:33:34   found in (77,440).
+2016/06/17, 18:33:34   found in (298,344).
+2016/06/17, 18:33:34   found in (416,474).
+2016/06/17, 18:33:34   found in (198,351).
+2016/06/17, 18:33:34   found in (406,476).
+2016/06/17, 18:33:34   found in (389,81).
+2016/06/17, 18:33:34   found in (247,282).
+2016/06/17, 18:33:34   found in (0,1).
+2016/06/17, 18:33:34   found in (0,1).
+2016/06/17, 18:33:34   found in (0,1).
+2016/06/17, 18:33:34   found in (0,1).
+2016/06/17, 18:33:34   found in (0,1).
+2016/06/17, 18:33:34   found in (0,1).
+2016/06/17, 18:33:34   found in (0,1).
+2016/06/17, 18:33:34   found in (0,1).
+2016/06/17, 18:33:34   found in (185,348).
+2016/06/17, 18:33:34   found in (188,346).
+2016/06/17, 18:33:34   found in (481,297).
+2016/06/17, 18:33:34   found in (475,383).
+2016/06/17, 18:33:34   found in (292,340).
+2016/06/17, 18:33:34   found in (295,340).
+2016/06/17, 18:33:34   found in (298,339).
+2016/06/17, 18:33:34   found in (409,465).
+2016/06/17, 18:33:34   found in (360,216).
+2016/06/17, 18:33:34   found in (393,75).
+2016/06/17, 18:33:34   found in (283,415).
+2016/06/17, 18:33:34   found in (274,255).
+2016/06/17, 18:33:34   found in (279,345).
+2016/06/17, 18:33:34   found in (468,407).
+2016/06/17, 18:33:34   found in (286,301).
+2016/06/17, 18:33:34   found in (276,344).
+2016/06/17, 18:33:34   found in (386,144).
+2016/06/17, 18:33:34   found in (337,306).
+2016/06/17, 18:33:34   found in (201,422).
+2016/06/17, 18:33:34   found in (373,175).
+2016/06/17, 18:33:34   found in (370,320).
+2016/06/17, 18:33:34   found in (415,281).
+2016/06/17, 18:33:34   found in (270,446).
+2016/06/17, 18:33:34   found in (413,374).
+2016/06/17, 18:33:34   found in (391,89).
+2016/06/17, 18:33:34   found in (388,89).
+2016/06/17, 18:33:34   found in (389,90).
+2016/06/17, 18:33:34   found in (192,340).
+2016/06/17, 18:33:34   found in (191,342).
+2016/06/17, 18:33:34   found in (193,352).
+2016/06/17, 18:33:34   found in (194,361).
+2016/06/17, 18:33:34   found in (192,344).
+2016/06/17, 18:33:34   found in (187,339).
+2016/06/17, 18:33:34   found in (190,351).
+2016/06/17, 18:33:34   found in (247,285).
+2016/06/17, 18:33:34   found in (378,97).
+2016/06/17, 18:33:34   found in (330,451).
+2016/06/17, 18:33:34   found in (310,456).
+2016/06/17, 18:33:34   found in (310,452).
+2016/06/17, 18:33:34   found in (316,452).
+2016/06/17, 18:33:34   found in (318,452).
+2016/06/17, 18:33:34   found in (323,451).
+2016/06/17, 18:33:34   found in (187,134).
+2016/06/17, 18:33:34   found in (186,133).
+2016/06/17, 18:33:34   found in (183,135).
+2016/06/17, 18:33:34   found in (184,137).
+2016/06/17, 18:33:34   found in (182,133).
+2016/06/17, 18:33:34   found in (279,342).
+2016/06/17, 18:33:34   found in (316,441).
+2016/06/17, 18:33:34   found in (375,410).
+2016/06/17, 18:33:34   found in (392,230).
+2016/06/17, 18:33:34   found in (78,437).
+2016/06/17, 18:33:34   found in (74,447).
+2016/06/17, 18:33:34   found in (77,441).
+2016/06/17, 18:33:34   found in (76,440).
+2016/06/17, 18:33:34   found in (76,440).
+2016/06/17, 18:33:34   found in (71,445).
+2016/06/17, 18:33:34   found in (257,262).
+2016/06/17, 18:33:34   found in (250,284).
+2016/06/17, 18:33:34   found in (433,71).
+2016/06/17, 18:33:34   found in (375,176).
+2016/06/17, 18:33:34   found in (451,411).
+2016/06/17, 18:33:34   found in (478,291).
+2016/06/17, 18:33:34   found in (443,398).
+2016/06/17, 18:33:34   found in (420,253).
+2016/06/17, 18:33:34   found in (232,239).
+2016/06/17, 18:33:34   found in (200,339).
+2016/06/17, 18:33:34   found in (314,252).
+2016/06/17, 18:33:34   found in (190,338).
+2016/06/17, 18:33:34   found in (450,389).
+2016/06/17, 18:33:34   found in (189,336).
+2016/06/17, 18:33:34   found in (305,290).
+2016/06/17, 18:33:34   found in (172,294).
+2016/06/17, 18:33:34   found in (388,102).
+2016/06/17, 18:33:34   found in (387,91).
+2016/06/17, 18:33:34   found in (387,91).
+2016/06/17, 18:33:34   found in (384,85).
+2016/06/17, 18:33:34   found in (232,239).
+2016/06/17, 18:33:34   found in (231,239).
+2016/06/17, 18:33:34   found in (232,239).
+2016/06/17, 18:33:34   found in (232,239).
+2016/06/17, 18:33:34   found in (102,367).
+2016/06/17, 18:33:34   found in (326,213).
+2016/06/17, 18:33:34   found in (472,403).
+2016/06/17, 18:33:34   found in (195,342).
+2016/06/17, 18:33:34   found in (248,400).
+2016/06/17, 18:33:34   found in (246,267).
+2016/06/17, 18:33:34   found in (246,266).
+2016/06/17, 18:33:34   found in (81,248).
+2016/06/17, 18:33:34   found in (296,396).
+2016/06/17, 18:33:34   found in (66,399).
+2016/06/17, 18:33:34   found in (211,295).
+2016/06/17, 18:33:34   found in (217,423).
+2016/06/17, 18:33:34   found in (184,398).
+2016/06/17, 18:33:34   found in (243,263).
+2016/06/17, 18:33:34   found in (294,223).
+2016/06/17, 18:33:34   found in (387,84).
+2016/06/17, 18:33:34   found in (272,399).
+2016/06/17, 18:33:34   found in (416,474).
+2016/06/17, 18:33:34   found in (414,474).
+2016/06/17, 18:33:34   found in (416,474).
+2016/06/17, 18:33:34   found in (416,474).
+2016/06/17, 18:33:34   found in (406,476).
+2016/06/17, 18:33:34   found in (231,238).
+2016/06/17, 18:33:34   found in (289,461).
+2016/06/17, 18:33:34   found in (209,426).
+2016/06/17, 18:33:34   found in (227,246).
+2016/06/17, 18:33:34   found in (228,242).
+2016/06/17, 18:33:34   found in (227,244).
+2016/06/17, 18:33:34   found in (422,249).
+2016/06/17, 18:33:34   found in (387,433).
+2016/06/17, 18:33:34   found in (387,437).
+2016/06/17, 18:33:34   found in (77,440).
+2016/06/17, 18:33:34   found in (416,474).
+2016/06/17, 18:33:34   found in (406,431).
+2016/06/17, 18:33:34   found in (101,373).
+2016/06/17, 18:33:34   found in (401,80).
+2016/06/17, 18:33:34   found in (190,409).
+2016/06/17, 18:33:34   found in (59,398).
+2016/06/17, 18:33:34   found in (336,452).
+2016/06/17, 18:33:34   found in (430,249).
+2016/06/17, 18:33:34   found in (201,245).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (510,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (510,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (510,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (510,0).
+2016/06/17, 18:33:34   found in (510,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (510,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (510,1).
+2016/06/17, 18:33:34   found in (511,0).
+2016/06/17, 18:33:34   found in (511,1).
+2016/06/17, 18:33:34   found in (511,1).
+2016/06/17, 18:33:34   found in (510,1).
+2016/06/17, 18:33:34   found in (511,1).
+2016/06/17, 18:33:34   found in (510,1).
+2016/06/17, 18:33:34   found in (511,1).
+2016/06/17, 18:33:34   found in (511,1).
+2016/06/17, 18:33:34   found in (511,1).
+2016/06/17, 18:33:34   found in (511,1).
+2016/06/17, 18:33:34   found in (368,282).
+2016/06/17, 18:33:34   found in (186,366).
+2016/06/17, 18:33:34   found in (186,367).
+2016/06/17, 18:33:34   found in (186,367).
+2016/06/17, 18:33:34   found in (186,366).
+2016/06/17, 18:33:34   found in (186,366).
+2016/06/17, 18:33:34   found in (186,366).
+2016/06/17, 18:33:34   found in (186,366).
+2016/06/17, 18:33:34   found in (186,366).
+2016/06/17, 18:33:34   found in (186,366).
+2016/06/17, 18:33:34   found in (185,366).
+2016/06/17, 18:33:34   found in (185,366).
+2016/06/17, 18:33:34   found in (186,366).
+2016/06/17, 18:33:34   found in (188,368).
+2016/06/17, 18:33:34   found in (187,367).
+2016/06/17, 18:33:34   found in (187,368).
+2016/06/17, 18:33:34   found in (185,366).
+2016/06/17, 18:33:34   found in (189,367).
+2016/06/17, 18:33:34   found in (170,329).
+2016/06/17, 18:33:34   found in (188,367).
+2016/06/17, 18:33:34   found in (209,365).
+2016/06/17, 18:33:34   found in (195,367).
+2016/06/17, 18:33:34   found in (188,366).
+2016/06/17, 18:33:34   found in (194,350).
+2016/06/17, 18:33:34   found in (194,350).
+2016/06/17, 18:33:34   found in (170,329).
+2016/06/17, 18:33:34   found in (170,329).
+2016/06/17, 18:33:34   found in (170,329).
+2016/06/17, 18:33:34   found in (170,328).
+2016/06/17, 18:33:34   found in (170,328).
+2016/06/17, 18:33:34   found in (209,364).
+2016/06/17, 18:33:34   found in (209,365).
+2016/06/17, 18:33:34   found in (209,365).
+2016/06/17, 18:33:34   found in (209,365).
+2016/06/17, 18:33:34   found in (209,365).
+2016/06/17, 18:33:34   found in (209,365).
+2016/06/17, 18:33:34   found in (209,366).
+2016/06/17, 18:33:34   found in (195,366).
+2016/06/17, 18:33:34   found in (199,350).
+2016/06/17, 18:33:34   found in (199,350).
+2016/06/17, 18:33:34   found in (199,349).
+2016/06/17, 18:33:34   found in (199,350).
+2016/06/17, 18:33:34   found in (199,350).
+2016/06/17, 18:33:34   found in (199,351).
+2016/06/17, 18:33:34   found in (186,365).
+2016/06/17, 18:33:34   found in (185,366).
+2016/06/17, 18:33:34   found in (185,366).
+2016/06/17, 18:33:34   found in (185,367).
+2016/06/17, 18:33:34   found in (186,368).
+2016/06/17, 18:33:34   found in (190,367).
+2016/06/17, 18:33:34   found in (190,368).
+2016/06/17, 18:33:34   found in (189,369).
+2016/06/17, 18:33:34   found in (189,369).
+2016/06/17, 18:33:34   found in (188,369).
+2016/06/17, 18:33:34   found in (83,168).
+2016/06/17, 18:33:34   found in (405,476).
+2016/06/17, 18:33:34   found in (73,446).
+2016/06/17, 18:33:34   found in (77,440).
+2016/06/17, 18:33:34   found in (238,268).
+2016/06/17, 18:33:34   found in (384,83).
+2016/06/17, 18:33:34   found in (391,432).
+2016/06/17, 18:33:34   found in (375,176).
+2016/06/17, 18:33:34   found in (375,176).
+2016/06/17, 18:33:34   found in (375,176).
+2016/06/17, 18:33:34   found in (375,176).
+2016/06/17, 18:33:34   found in (375,176).
+2016/06/17, 18:33:34   found in (375,176).
+2016/06/17, 18:33:34   found in (231,237).
+2016/06/17, 18:33:34   found in (231,241).
+2016/06/17, 18:33:34   found in (230,240).
+2016/06/17, 18:33:34   found in (233,237).
+2016/06/17, 18:33:34   found in (231,241).
+2016/06/17, 18:33:34   found in (231,241).
+2016/06/17, 18:33:34   found in (230,241).
+2016/06/17, 18:33:34   found in (230,241).
+2016/06/17, 18:33:34   found in (230,240).
+2016/06/17, 18:33:34   found in (230,239).
+2016/06/17, 18:33:34   found in (229,239).
+2016/06/17, 18:33:34   found in (229,239).
+2016/06/17, 18:33:34   found in (229,240).
+2016/06/17, 18:33:34   found in (229,240).
+2016/06/17, 18:33:34   found in (229,240).
+2016/06/17, 18:33:34   found in (229,237).
+2016/06/17, 18:33:34   found in (229,237).
+2016/06/17, 18:33:34   found in (229,238).
+2016/06/17, 18:33:34   found in (229,238).
+2016/06/17, 18:33:34   found in (229,238).
+2016/06/17, 18:33:34   found in (229,239).
+2016/06/17, 18:33:34   found in (230,240).
+2016/06/17, 18:33:34   found in (230,241).
+2016/06/17, 18:33:34   found in (231,236).
+2016/06/17, 18:33:34   found in (230,236).
+2016/06/17, 18:33:34   found in (230,237).
+2016/06/17, 18:33:34   found in (230,237).
+2016/06/17, 18:33:34   found in (230,237).
+2016/06/17, 18:33:34   found in (232,236).
+2016/06/17, 18:33:34   found in (232,236).
+2016/06/17, 18:33:34   found in (232,236).
+2016/06/17, 18:33:34   found in (231,236).
+2016/06/17, 18:33:34   found in (231,236).
+2016/06/17, 18:33:34   found in (233,236).
+2016/06/17, 18:33:34   found in (233,236).
+2016/06/17, 18:33:34   found in (233,236).
+2016/06/17, 18:33:34   found in (233,237).
+2016/06/17, 18:33:34   found in (233,237).
+2016/06/17, 18:33:34   found in (233,237).
+2016/06/17, 18:33:34   found in (233,238).
+2016/06/17, 18:33:34   found in (233,238).
+2016/06/17, 18:33:34   found in (233,238).
+2016/06/17, 18:33:34   found in (233,239).
+2016/06/17, 18:33:34   found in (233,239).
+2016/06/17, 18:33:34   found in (233,239).
+2016/06/17, 18:33:34   found in (233,239).
+2016/06/17, 18:33:34   found in (233,240).
+2016/06/17, 18:33:34   found in (233,240).
+2016/06/17, 18:33:34   found in (233,240).
+2016/06/17, 18:33:34   found in (233,241).
+2016/06/17, 18:33:34   found in (232,241).
+2016/06/17, 18:33:34   found in (232,241).
+2016/06/17, 18:33:34   found in (233,241).
+2016/06/17, 18:33:35   found in (232,241).
+2016/06/17, 18:33:35   found in (231,241).
+2016/06/17, 18:33:35   found in (233,241).
+2016/06/17, 18:33:35   found in (233,239).
+2016/06/17, 18:33:35   found in (230,238).
+2016/06/17, 18:33:35   found in (174,338).
+2016/06/17, 18:33:35   found in (189,367).
+2016/06/17, 18:33:35   found in (176,334).
+2016/06/17, 18:33:35   found in (173,335).
+2016/06/17, 18:33:35   found in (175,334).
+2016/06/17, 18:33:35   found in (174,334).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (172,336).
+2016/06/17, 18:33:35   found in (173,335).
+2016/06/17, 18:33:35   found in (173,335).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (172,335).
+2016/06/17, 18:33:35   found in (229,243).
+2016/06/17, 18:33:35   found in (229,243).
+2016/06/17, 18:33:35   found in (386,99).
+2016/06/17, 18:33:35   found in (392,103).
+2016/06/17, 18:33:35   found in (390,105).
+2016/06/17, 18:33:35   found in (391,104).
+2016/06/17, 18:33:35   found in (391,104).
+2016/06/17, 18:33:35   found in (388,433).
+2016/06/17, 18:33:35   found in (395,434).
+2016/06/17, 18:33:35   found in (392,435).
+2016/06/17, 18:33:35   found in (394,435).
+2016/06/17, 18:33:35   found in (72,114).
+2016/06/17, 18:33:35   found in (70,111).
+2016/06/17, 18:33:35   found in (71,115).
+2016/06/17, 18:33:35   found in (71,111).
+2016/06/17, 18:33:35   found in (71,113).
+2016/06/17, 18:33:35   found in (71,113).
+2016/06/17, 18:33:35   found in (72,114).
+2016/06/17, 18:33:35   found in (71,113).
+2016/06/17, 18:33:35   found in (70,115).
+2016/06/17, 18:33:35   found in (71,113).
+2016/06/17, 18:33:35   found in (70,114).
+2016/06/17, 18:33:35   found in (475,383).
+2016/06/17, 18:33:35   found in (475,383).
+2016/06/17, 18:33:35   found in (475,383).
+2016/06/17, 18:33:35   found in (388,433).
+2016/06/17, 18:33:35   found in (388,433).
+2016/06/17, 18:33:35   found in (310,452).
+2016/06/17, 18:33:35   found in (310,452).
+2016/06/17, 18:33:35   found in (310,452).
+2016/06/17, 18:33:35   found in (272,399).
+2016/06/17, 18:33:35   found in (272,400).
+2016/06/17, 18:33:35   found in (272,399).
+2016/06/17, 18:33:35   found in (108,366).
+2016/06/17, 18:33:35   found in (108,366).
+2016/06/17, 18:33:35   found in (106,368).
+2016/06/17, 18:33:35   found in (437,458).
+2016/06/17, 18:33:35   found in (312,206).
+2016/06/17, 18:33:35   found in (189,131).
+2016/06/17, 18:33:35   found in (189,131).
+2016/06/17, 18:33:35   found in (182,130).
+2016/06/17, 18:33:35   found in (97,245).
+2016/06/17, 18:33:35   found in (97,245).
+2016/06/17, 18:33:35   found in (96,243).
+2016/06/17, 18:33:35   found in (74,288).
+2016/06/17, 18:33:35   found in (75,287).
+2016/06/17, 18:33:35   found in (74,286).
+2016/06/17, 18:33:35   found in (58,398).
+2016/06/17, 18:33:35   found in (127,469).
+2016/06/17, 18:33:35   found in (128,469).
+2016/06/17, 18:33:35   found in (132,466).
+2016/06/17, 18:33:35   found in (226,445).
+2016/06/17, 18:33:35   found in (328,449).
+2016/06/17, 18:33:35   found in (189,420).
+2016/06/17, 18:33:35   found in (232,237).
+2016/06/17, 18:33:35   found in (337,307).
+2016/06/17, 18:33:35   found in (337,307).
+2016/06/17, 18:33:35   found in (337,307).
+2016/06/17, 18:33:35   found in (274,256).
+2016/06/17, 18:33:35   found in (218,424).
+2016/06/17, 18:33:35   found in (123,313).
+2016/06/17, 18:33:35   found in (122,313).
+2016/06/17, 18:33:35   found in (122,313).
+2016/06/17, 18:33:35   found in (123,313).
+2016/06/17, 18:33:35   found in (122,313).
+2016/06/17, 18:33:35   found in (122,312).
+2016/06/17, 18:33:35   found in (122,313).
+2016/06/17, 18:33:35   found in (122,312).
+2016/06/17, 18:33:35   found in (123,312).
+2016/06/17, 18:33:35   found in (122,312).
+2016/06/17, 18:33:35   found in (123,313).
+2016/06/17, 18:33:35   found in (123,313).
+2016/06/17, 18:33:35   found in (123,313).
+2016/06/17, 18:33:35   found in (122,313).
+2016/06/17, 18:33:35   found in (122,312).
+2016/06/17, 18:33:35   found in (122,312).
+2016/06/17, 18:33:35   found in (123,313).
+2016/06/17, 18:33:35 Strange convex component49 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component50 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component51 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component52 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component53 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component54 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component55 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component57 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component68 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35 Strange convex component69 in a3\structures_f_epb\civ\playground\slidecastle_ruins_f.p3d:geometryFire
+2016/06/17, 18:33:35   found in (122,313).
+2016/06/17, 18:33:35   found in (122,313).
+2016/06/17, 18:33:35   found in (122,314).
+2016/06/17, 18:33:35   found in (122,314).
+2016/06/17, 18:33:35   found in (123,312).
+2016/06/17, 18:33:35   found in (123,311).
+2016/06/17, 18:33:35   found in (83,168).
+2016/06/17, 18:33:35   found in (83,168).
+2016/06/17, 18:33:35   found in (83,167).
+2016/06/17, 18:33:35   found in (386,143).
+2016/06/17, 18:33:35   found in (386,143).
+2016/06/17, 18:33:35   found in (386,143).
+2016/06/17, 18:33:35   found in (389,81).
+2016/06/17, 18:33:35   found in (389,81).
+2016/06/17, 18:33:35   found in (511,0).
+2016/06/17, 18:33:35   found in (511,0).
+2016/06/17, 18:33:35   found in (511,1).
+2016/06/17, 18:33:35   found in (509,0).
+2016/06/17, 18:33:35   found in (509,0).
+2016/06/17, 18:33:35   found in (510,0).
+2016/06/17, 18:33:35   found in (186,421).
+2016/06/17, 18:33:35   found in (186,421).
+2016/06/17, 18:33:35   found in (226,448).
+2016/06/17, 18:33:35   found in (225,448).
+2016/06/17, 18:33:35   found in (330,455).
+2016/06/17, 18:33:35   found in (330,456).
+2016/06/17, 18:33:35   found in (438,456).
+2016/06/17, 18:33:35   found in (438,456).
+2016/06/17, 18:33:35   found in (313,206).
+2016/06/17, 18:33:35   found in (313,206).
+2016/06/17, 18:33:35   found in (52,399).
+2016/06/17, 18:33:35   found in (53,399).
+2016/06/17, 18:33:35 class HitPoints::HitFuel not found in Land_Camping_Light_F
+2016/06/17, 18:33:35   found in (510,0).
+2016/06/17, 18:33:35   found in (174,335).
+2016/06/17, 18:33:35   found in (176,335).
+2016/06/17, 18:33:35   found in (174,335).
+2016/06/17, 18:33:35   found in (174,335).
+2016/06/17, 18:33:35   found in (176,334).
+2016/06/17, 18:33:35   found in (175,333).
+2016/06/17, 18:33:35   found in (190,351).
+2016/06/17, 18:33:36   found in (198,350).
+2016/06/17, 18:33:36   found in (198,350).
+2016/06/17, 18:33:36   found in (327,213).
+2016/06/17, 18:33:36   found in (327,212).
+2016/06/17, 18:33:36   found in (326,213).
+2016/06/17, 18:33:36   found in (433,71).
+2016/06/17, 18:33:36   found in (433,70).
+2016/06/17, 18:33:36   found in (289,461).
+2016/06/17, 18:33:36   found in (289,461).
+2016/06/17, 18:33:36 Loading movesType CfgGesturesMale
+2016/06/17, 18:33:36 Animation a3\anims_f_exp\data\anim\sdr\gst\gesturereloadctarprone.rtm not found or empty
+2016/06/17, 18:33:36 MovesType CfgGesturesMale load time 258 ms
+2016/06/17, 18:33:36 Loading movesType CfgMovesMaleSdr
+2016/06/17, 18:33:36 bin\config.bin/CfgMovesMaleSdr/States/UnconsciousReviveMedic.InterpolateTo: item count not multiple of 2 (is 11)
+2016/06/17, 18:33:37 Animation a3\cargoposes_f\anim\passenger_flatground_leanleft_kia.rtm not found or empty
+2016/06/17, 18:33:37 Animation a3\cargoposes_f\anim\passenger_flatground_leanright_kia.rtm not found or empty
+2016/06/17, 18:33:38 Animation a3\cargoposes_f_heli\anim\vehicle_passenger_stand_2aimtopistol_end.rtm not found or empty
+2016/06/17, 18:33:38 Animation a3\cargoposes_f_heli\anim\vehicle_passenger_stand_2aimunarmed_tobinoc_end.rtm not found or empty
+2016/06/17, 18:33:38 Animation a3\cargoposes_f_heli\anim\vehicle_passenger_stand_2aimunarmed_frombinoc_end.rtm not found or empty
+2016/06/17, 18:33:38 Animation a3\cargoposes_f_heli\anim\vehicle_passenger_stand_2aimlauncher1.rtm not found or empty
+2016/06/17, 18:33:38 Animation a3\cargoposes_f_heli\anim\vehicle_passenger_stand_2idlelauncher1.rtm not found or empty
+2016/06/17, 18:33:38 Animation a3\cargoposes_f_heli\anim\vehicle_passenger_stand_2aimlauncher_reload.rtm not found or empty
+2016/06/17, 18:33:41 MovesType CfgMovesMaleSdr load time 5215 ms
+2016/06/17, 18:33:41   found in (511,0).
+2016/06/17, 18:33:42   found in (511,0).
+2016/06/17, 18:33:42   found in (511,0).
+2016/06/17, 18:33:42   found in (511,0).
+2016/06/17, 18:33:42   found in (511,0).
+2016/06/17, 18:33:42 Performance warning: Very large search for 492654 (>300 m)
+2016/06/17, 18:33:43 Strange convex component70 in a3\structures_f_exp\commercial\multistorybuilding_01\multistorybuilding_01_f.p3d:geometryFire
+2016/06/17, 18:33:43 Strange convex component75 in a3\structures_f_exp\commercial\multistorybuilding_01\multistorybuilding_01_f.p3d:geometryFire
+2016/06/17, 18:33:43 Strange convex component76 in a3\structures_f_exp\commercial\multistorybuilding_01\multistorybuilding_01_f.p3d:geometryFire
+2016/06/17, 18:33:43 Strange convex component77 in a3\structures_f_exp\commercial\multistorybuilding_01\multistorybuilding_01_f.p3d:geometryFire
+2016/06/17, 18:33:43 Strange convex component78 in a3\structures_f_exp\commercial\multistorybuilding_01\multistorybuilding_01_f.p3d:geometryFire
+2016/06/17, 18:33:45 Performance warning: Search for 492654: t_ficus_medium_f.p3d was very large (1800 m)
+2016/06/17, 18:33:45 Performance warning: Very large search for 492665 (>300 m)
+2016/06/17, 18:33:45 Performance warning: Search for 492665: t_ficus_medium_f.p3d was very large (1770 m)
+2016/06/17, 18:33:45 Performance warning: Very large search for 492170 (>300 m)
+2016/06/17, 18:33:45 Performance warning: Search for 492170: t_inocarpus_f.p3d was very large (2070 m)
+2016/06/17, 18:33:45 Performance warning: Very large search for 492176 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492176: t_inocarpus_f.p3d was very large (2100 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492175 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492175: t_inocarpus_f.p3d was very large (2100 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492177 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492177: t_palaquium_f.p3d was very large (2100 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492171 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492171: t_inocarpus_f.p3d was very large (2070 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492166 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492166: t_inocarpus_f.p3d was very large (2130 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492172 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492172: t_inocarpus_f.p3d was very large (2070 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492167 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492167: t_inocarpus_f.p3d was very large (2130 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492174 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492174: t_inocarpus_f.p3d was very large (2100 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492319 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492319: t_ficus_small_f.p3d was very large (1980 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492308 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492308: t_leucaena_f.p3d was very large (1920 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492320 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492320: t_ficus_small_f.p3d was very large (1980 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492309 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492309: t_leucaena_f.p3d was very large (1920 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492321 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492321: t_ficus_small_f.p3d was very large (2010 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492295 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492295: t_cyathea_f.p3d was very large (2070 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492294 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492294: t_cyathea_f.p3d was very large (2040 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492300 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492300: t_cyathea_f.p3d was very large (2010 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492173 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492173: t_inocarpus_f.p3d was very large (2130 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492173 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492173: t_inocarpus_f.p3d was very large (2130 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492310 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492310: t_leucaena_f.p3d was very large (1920 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492311 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492311: t_ficus_small_f.p3d was very large (1920 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492322 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492322: t_ficus_medium_f.p3d was very large (2010 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 492279 (>300 m)
+2016/06/17, 18:33:46 Performance warning: Search for 492279: t_inocarpus_f.p3d was very large (2040 m)
+2016/06/17, 18:33:46 Performance warning: Very large search for 56486 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 56486: b_ginger_3_f.p3d was very large (5730 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 56485 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 56485: b_ginger_3_f.p3d was very large (5730 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 56487 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 56487: b_ginger_3_f.p3d was very large (5730 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 56484 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 56484: b_ginger_3_f.p3d was very large (5730 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 56491 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 56491: b_ginger_3_f.p3d was very large (5730 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 56488 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 56488: b_ginger_3_f.p3d was very large (5730 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 56489 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 56489: b_ginger_3_f.p3d was very large (5760 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492089 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492089: t_cyathea_f.p3d was very large (2130 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492096 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492096: t_inocarpus_f.p3d was very large (2010 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492087 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492087: t_cyathea_f.p3d was very large (2130 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492086 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492086: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492091 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492091: t_cyathea_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492090 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492090: t_cyathea_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492090 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492090: t_cyathea_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492095 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492095: t_inocarpus_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492088 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492088: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492085 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492085: t_cyathea_f.p3d was very large (2130 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492093 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492093: t_inocarpus_f.p3d was very large (2040 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492094 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492094: t_inocarpus_f.p3d was very large (2040 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492098 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492098: t_inocarpus_f.p3d was very large (2010 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492229 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492229: t_palaquium_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492228 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492228: t_palaquium_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492230 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492230: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492230 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492230: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492241 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492241: t_inocarpus_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492190 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492190: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492242 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492242: t_inocarpus_f.p3d was very large (2040 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492189 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492189: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492226 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492226: t_leucaena_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492227 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492227: t_leucaena_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492221 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492221: t_leucaena_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492238 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492238: t_inocarpus_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492188 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492188: t_cyathea_f.p3d was very large (2130 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492187 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492187: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492204 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492204: t_ficus_small_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492185 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492185: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492231 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492231: t_cyathea_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492236 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492236: t_inocarpus_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492235 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492235: t_ficus_medium_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492186 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492186: t_cyathea_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492210 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492210: t_cocosnucifera3s_tall_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492240 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492240: t_inocarpus_f.p3d was very large (2040 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492232 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492232: t_cyathea_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492239 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492239: t_inocarpus_f.p3d was very large (2040 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492237 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492237: t_inocarpus_f.p3d was very large (2040 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492233 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492233: t_cyathea_f.p3d was very large (2070 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492203 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492203: t_ficus_small_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 492208 (>300 m)
+2016/06/17, 18:33:55 Performance warning: Search for 492208: t_cocosnucifera3s_tall_f.p3d was very large (2100 m)
+2016/06/17, 18:33:55 Performance warning: Very large search for 1600968 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 1600968: bw_setbig_tubeg_f.p3d was very large (8160 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492304 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492304: t_cyathea_f.p3d was very large (2040 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492303 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492303: t_cyathea_f.p3d was very large (2040 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492299 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492299: t_cyathea_f.p3d was very large (2010 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492331 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492331: t_ficus_medium_f.p3d was very large (1860 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492316 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492316: t_ficus_medium_f.p3d was very large (1920 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492317 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492317: t_ficus_medium_f.p3d was very large (1950 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492315 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492315: t_ficus_medium_f.p3d was very large (1950 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492805 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492805: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492794 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492794: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492795 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492795: t_ficus_small_f.p3d was very large (1620 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 56499 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 56499: b_ginger_3_f.p3d was very large (5730 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 56498 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 56498: b_ginger_3_f.p3d was very large (5760 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492808 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492808: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492819 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492819: t_palaquium_f.p3d was very large (1680 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492802 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492802: t_inocarpus_f.p3d was very large (1680 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492806 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492806: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492804 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492804: t_inocarpus_f.p3d was very large (1680 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492809 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492809: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492807 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492807: t_inocarpus_f.p3d was very large (1680 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492798 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492798: t_cocosnucifera3s_tall_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492803 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492803: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492793 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492793: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492812 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492812: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 1600970 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 1600970: bw_setbig_tubeg_f.p3d was very large (8160 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492796 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492796: t_ficus_small_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492810 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492810: t_inocarpus_f.p3d was very large (1680 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492811 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492811: t_inocarpus_f.p3d was very large (1680 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492799 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492799: t_ficus_big_f.p3d was very large (1680 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492800 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492800: t_inocarpus_f.p3d was very large (1680 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492801 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492801: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492814 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492814: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492797 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492797: t_ficus_small_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492813 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492813: t_inocarpus_f.p3d was very large (1650 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492299 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492299: t_cyathea_f.p3d was very large (2010 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492297 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492297: t_cyathea_f.p3d was very large (2040 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492312 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492312: t_ficus_small_f.p3d was very large (1950 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492326 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492326: t_ficus_small_f.p3d was very large (1950 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492333 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492333: t_ficus_medium_f.p3d was very large (1860 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492327 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492327: t_ficus_small_f.p3d was very large (1950 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492325 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492325: t_ficus_small_f.p3d was very large (1950 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492334 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492334: t_ficus_medium_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492324 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492324: t_ficus_small_f.p3d was very large (2010 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492323 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492323: t_ficus_small_f.p3d was very large (2010 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492332 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492332: t_ficus_medium_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 1600969 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 1600969: bw_setbig_tubeg_f.p3d was very large (8160 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492344 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492344: t_cocosnucifera3s_tall_f.p3d was very large (1860 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492296 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492296: t_cyathea_f.p3d was very large (2070 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492337 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492337: t_ficus_small_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492354 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492354: t_leucaena_f.p3d was very large (1860 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492358 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492358: t_ficus_medium_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492352 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492352: t_leucaena_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492353 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492353: t_leucaena_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492345 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492345: t_cocosnucifera3s_tall_f.p3d was very large (1860 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492355 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492355: t_leucaena_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492357 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492357: t_ficus_medium_f.p3d was very large (1860 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492336 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492336: t_ficus_medium_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 56493 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 56493: b_ginger_3_f.p3d was very large (5730 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 56494 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 56494: b_ginger_3_f.p3d was very large (5760 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 56496 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 56496: b_ginger_3_f.p3d was very large (5760 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 56495 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 56495: b_ginger_3_f.p3d was very large (5760 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492348 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492348: t_leucaena_f.p3d was very large (1860 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492351 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492351: t_leucaena_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492347 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492347: t_leucaena_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492349 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492349: t_leucaena_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492356 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492356: t_ficus_medium_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492318 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492318: t_ficus_small_f.p3d was very large (1980 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492346 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492346: t_cocosnucifera3s_tall_f.p3d was very large (1860 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492350 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492350: t_leucaena_f.p3d was very large (1890 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492259 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492259: t_cyathea_f.p3d was very large (2040 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492250 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492250: t_palaquium_f.p3d was very large (2040 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492270 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492270: t_ficus_medium_f.p3d was very large (2070 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 492247 (>300 m)
+2016/06/17, 18:34:02 Performance warning: Search for 492247: t_inocarpus_f.p3d was very large (2040 m)
+2016/06/17, 18:34:02 Performance warning: Very large search for 45989 (>300 m)
+2016/06/17, 18:34:03 Strange convex component16 in a3\boat_f_gamma\boat_civil_04\boat_civil_04_f.p3d:geometryView
+2016/06/17, 18:34:03 Strange convex component25 in a3\boat_f_gamma\boat_civil_04\boat_civil_04_f.p3d:geometryView
+2016/06/17, 18:34:03 Strange convex component26 in a3\boat_f_gamma\boat_civil_04\boat_civil_04_f.p3d:geometryView
+2016/06/17, 18:34:03 Strange convex component27 in a3\boat_f_gamma\boat_civil_04\boat_civil_04_f.p3d:geometryView
+2016/06/17, 18:34:03 Performance warning: Search for 45989: b_ginger_3_f.p3d was very large (8280 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 12987 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 12987: b_ginger_3_f.p3d was very large (3660 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 455215 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 465d8100# 455215: house_small_06_f.p3d was very large (300 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 455214 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 455214: t_cocosnucifera2s_small_f.p3d was very large (360 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56085 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56085: cliff_wall_round_f.p3d was very large (6750 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 455213 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 455213: t_cocosnucifera2s_small_f.p3d was very large (330 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 45989 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 45989: b_ginger_3_f.p3d was very large (8280 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 12987 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 12987: b_ginger_3_f.p3d was very large (3660 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 455215 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 465d8100# 455215: house_small_06_f.p3d was very large (300 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 455214 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 455214: t_cocosnucifera2s_small_f.p3d was very large (360 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56085 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56085: cliff_wall_round_f.p3d was very large (6750 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 455213 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 455213: t_cocosnucifera2s_small_f.p3d was very large (330 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 455212 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 455212: t_cocosnucifera2s_small_f.p3d was very large (360 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56088 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56088: cliff_stone_big_lc_f.p3d was very large (6750 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56083 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56083: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492654 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492654: t_ficus_medium_f.p3d was very large (720 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492665 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492665: t_ficus_medium_f.p3d was very large (840 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492170 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492170: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492176 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492176: t_inocarpus_f.p3d was very large (1020 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492175 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492175: t_inocarpus_f.p3d was very large (1020 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492177 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492177: t_palaquium_f.p3d was very large (1020 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492171 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492171: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492166 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492166: t_inocarpus_f.p3d was very large (1050 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492172 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492172: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492167 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492167: t_inocarpus_f.p3d was very large (1050 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492174 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492174: t_inocarpus_f.p3d was very large (1020 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492319 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492319: t_ficus_small_f.p3d was very large (900 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492308 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492308: t_leucaena_f.p3d was very large (840 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492320 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492320: t_ficus_small_f.p3d was very large (900 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492309 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492309: t_leucaena_f.p3d was very large (840 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492321 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492321: t_ficus_small_f.p3d was very large (930 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492295 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492295: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492294 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492294: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492300 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492300: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492173 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492173: t_inocarpus_f.p3d was very large (1050 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492173 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492173: t_inocarpus_f.p3d was very large (1050 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492310 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492310: t_leucaena_f.p3d was very large (840 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492311 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492311: t_ficus_small_f.p3d was very large (840 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492322 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492322: t_ficus_medium_f.p3d was very large (930 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 492279 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 492279: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56486 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56486: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56485 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56485: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56487 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56487: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56484 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56484: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56491 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56491: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56488 (>300 m)
+2016/06/17, 18:34:03 Performance warning: Search for 56488: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:03 Performance warning: Very large search for 56489 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 56489: b_ginger_3_f.p3d was very large (6840 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492089 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492089: t_cyathea_f.p3d was very large (1050 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492096 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492096: t_inocarpus_f.p3d was very large (930 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492087 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492087: t_cyathea_f.p3d was very large (1050 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492086 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492086: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492091 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492091: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492090 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492090: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492090 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492090: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492095 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492095: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492088 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492088: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492085 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492085: t_cyathea_f.p3d was very large (1050 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492093 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492093: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492094 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492094: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492098 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492098: t_inocarpus_f.p3d was very large (930 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492229 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492229: t_palaquium_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492228 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492228: t_palaquium_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492230 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492230: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492230 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492230: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492241 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492241: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492190 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492190: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492242 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492242: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492189 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492189: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492226 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492226: t_leucaena_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492227 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492227: t_leucaena_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492221 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492221: t_leucaena_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492238 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492238: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492188 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492188: t_cyathea_f.p3d was very large (1050 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492187 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492187: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492204 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492204: t_ficus_small_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492185 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492185: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492231 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492231: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492236 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492236: t_inocarpus_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492235 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492235: t_ficus_medium_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492186 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492186: t_cyathea_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492210 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492210: t_cocosnucifera3s_tall_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492240 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492240: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492232 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492232: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492239 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492239: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492237 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492237: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492233 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492233: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492203 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492203: t_ficus_small_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492208 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492208: t_cocosnucifera3s_tall_f.p3d was very large (1020 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 1600968 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 1600968: bw_setbig_tubeg_f.p3d was very large (9240 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492304 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492304: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492303 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492303: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492299 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492299: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492331 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492331: t_ficus_medium_f.p3d was very large (840 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492316 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492316: t_ficus_medium_f.p3d was very large (840 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492317 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492317: t_ficus_medium_f.p3d was very large (870 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492315 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492315: t_ficus_medium_f.p3d was very large (870 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492805 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492805: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492794 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492794: t_inocarpus_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492795 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492795: t_ficus_small_f.p3d was very large (630 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 56499 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 56499: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 56498 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 56498: b_ginger_3_f.p3d was very large (6840 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492808 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492808: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492819 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492819: t_palaquium_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492802 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492802: t_inocarpus_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492806 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492806: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492804 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492804: t_inocarpus_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492809 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492809: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492807 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492807: t_inocarpus_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492798 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492798: t_cocosnucifera3s_tall_f.p3d was very large (660 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492803 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492803: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492793 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492793: t_inocarpus_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492812 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492812: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 1600970 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 1600970: bw_setbig_tubeg_f.p3d was very large (9240 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492796 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492796: t_ficus_small_f.p3d was very large (630 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492810 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492810: t_inocarpus_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492811 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492811: t_inocarpus_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492799 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492799: t_ficus_big_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492800 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492800: t_inocarpus_f.p3d was very large (600 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492801 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492801: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492814 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492814: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492797 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492797: t_ficus_small_f.p3d was very large (630 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492813 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492813: t_inocarpus_f.p3d was very large (570 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492299 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492299: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492297 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492297: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492312 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492312: t_ficus_small_f.p3d was very large (870 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492326 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492326: t_ficus_small_f.p3d was very large (870 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492333 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492333: t_ficus_medium_f.p3d was very large (810 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492327 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492327: t_ficus_small_f.p3d was very large (870 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492325 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492325: t_ficus_small_f.p3d was very large (870 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492334 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492334: t_ficus_medium_f.p3d was very large (810 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492324 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492324: t_ficus_small_f.p3d was very large (930 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492323 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492323: t_ficus_small_f.p3d was very large (930 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492332 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492332: t_ficus_medium_f.p3d was very large (840 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 1600969 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 1600969: bw_setbig_tubeg_f.p3d was very large (9240 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492344 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492344: t_cocosnucifera3s_tall_f.p3d was very large (810 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492296 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492296: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492337 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492337: t_ficus_small_f.p3d was very large (840 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492354 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492354: t_leucaena_f.p3d was very large (810 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492358 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492358: t_ficus_medium_f.p3d was very large (810 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492352 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492352: t_leucaena_f.p3d was very large (840 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492353 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492353: t_leucaena_f.p3d was very large (840 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492345 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492345: t_cocosnucifera3s_tall_f.p3d was very large (780 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492355 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492355: t_leucaena_f.p3d was very large (810 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492357 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492357: t_ficus_medium_f.p3d was very large (780 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 492336 (>300 m)
+2016/06/17, 18:34:04 Performance warning: Search for 492336: t_ficus_medium_f.p3d was very large (810 m)
+2016/06/17, 18:34:04 Performance warning: Very large search for 56493 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56493: b_ginger_3_f.p3d was very large (6810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56494 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56494: b_ginger_3_f.p3d was very large (6840 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56496 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56496: b_ginger_3_f.p3d was very large (6840 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56495 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56495: b_ginger_3_f.p3d was very large (6840 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492348 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492348: t_leucaena_f.p3d was very large (780 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492351 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492351: t_leucaena_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492347 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492347: t_leucaena_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492349 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492349: t_leucaena_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492356 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492356: t_ficus_medium_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492318 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492318: t_ficus_small_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492346 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492346: t_cocosnucifera3s_tall_f.p3d was very large (780 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492350 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492350: t_leucaena_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492259 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492259: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492250 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492250: t_palaquium_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492270 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492270: t_ficus_medium_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492247 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492247: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492654 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492654: t_ficus_medium_f.p3d was very large (660 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492665 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492665: t_ficus_medium_f.p3d was very large (630 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492170 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492170: t_inocarpus_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492176 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492176: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492175 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492175: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492177 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492177: t_palaquium_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492171 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492171: t_inocarpus_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492166 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492166: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492172 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492172: t_inocarpus_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492167 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492167: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492174 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492174: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492319 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492319: t_ficus_small_f.p3d was very large (840 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492308 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492308: t_leucaena_f.p3d was very large (780 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492320 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492320: t_ficus_small_f.p3d was very large (840 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492309 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492309: t_leucaena_f.p3d was very large (780 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492321 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492321: t_ficus_small_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492295 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492295: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492294 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492294: t_cyathea_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492300 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492300: t_cyathea_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492173 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492173: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492173 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492173: t_inocarpus_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492310 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492310: t_leucaena_f.p3d was very large (780 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492311 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492311: t_ficus_small_f.p3d was very large (780 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492322 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492322: t_ficus_medium_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492279 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492279: t_inocarpus_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56486 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56486: b_ginger_3_f.p3d was very large (6870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56485 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56485: b_ginger_3_f.p3d was very large (6870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56487 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56487: b_ginger_3_f.p3d was very large (6870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56484 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56484: b_ginger_3_f.p3d was very large (6870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56491 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56491: b_ginger_3_f.p3d was very large (6870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56488 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56488: b_ginger_3_f.p3d was very large (6870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56489 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56489: b_ginger_3_f.p3d was very large (6900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492089 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492089: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492096 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492096: t_inocarpus_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492087 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492087: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492086 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492086: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492091 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492091: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492090 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492090: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492090 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492090: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492095 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492095: t_inocarpus_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492088 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492088: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492085 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492085: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492093 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492093: t_inocarpus_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492094 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492094: t_inocarpus_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492098 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492098: t_inocarpus_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492229 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492229: t_palaquium_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492228 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492228: t_palaquium_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492230 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492230: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492230 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492230: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492241 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492241: t_inocarpus_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492190 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492190: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492242 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492242: t_inocarpus_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492189 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492189: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492226 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492226: t_leucaena_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492227 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492227: t_leucaena_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492221 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492221: t_leucaena_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492238 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492238: t_inocarpus_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492188 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492188: t_cyathea_f.p3d was very large (990 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492187 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492187: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492204 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492204: t_ficus_small_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492185 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492185: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492231 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492231: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492236 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492236: t_inocarpus_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492235 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492235: t_ficus_medium_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492186 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492186: t_cyathea_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492210 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492210: t_cocosnucifera3s_tall_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492240 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492240: t_inocarpus_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492232 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492232: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492239 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492239: t_inocarpus_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492237 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492237: t_inocarpus_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492233 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492233: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492203 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492203: t_ficus_small_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492208 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492208: t_cocosnucifera3s_tall_f.p3d was very large (960 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 1600968 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 1600968: bw_setbig_tubeg_f.p3d was very large (9300 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492304 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492304: t_cyathea_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492303 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492303: t_cyathea_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492299 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492299: t_cyathea_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492331 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492331: t_ficus_medium_f.p3d was very large (720 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492316 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492316: t_ficus_medium_f.p3d was very large (780 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492317 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492317: t_ficus_medium_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492315 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492315: t_ficus_medium_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492805 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492805: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492794 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492794: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492795 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492795: t_ficus_small_f.p3d was very large (480 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56499 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56499: b_ginger_3_f.p3d was very large (6870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56498 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56498: b_ginger_3_f.p3d was very large (6900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492808 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492808: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492819 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492819: t_palaquium_f.p3d was very large (540 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492802 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492802: t_inocarpus_f.p3d was very large (540 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492806 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492806: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492804 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492804: t_inocarpus_f.p3d was very large (540 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492809 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492809: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492807 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492807: t_inocarpus_f.p3d was very large (540 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492798 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492798: t_cocosnucifera3s_tall_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492803 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492803: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492793 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492793: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492812 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492812: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 1600970 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 1600970: bw_setbig_tubeg_f.p3d was very large (9300 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492796 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492796: t_ficus_small_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492810 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492810: t_inocarpus_f.p3d was very large (540 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492811 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492811: t_inocarpus_f.p3d was very large (540 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492799 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492799: t_ficus_big_f.p3d was very large (540 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492800 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492800: t_inocarpus_f.p3d was very large (540 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492801 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492801: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492814 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492814: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492797 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492797: t_ficus_small_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492813 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492813: t_inocarpus_f.p3d was very large (510 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492299 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492299: t_cyathea_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492297 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492297: t_cyathea_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492312 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492312: t_ficus_small_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492326 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492326: t_ficus_small_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492333 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492333: t_ficus_medium_f.p3d was very large (720 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492327 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492327: t_ficus_small_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492325 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492325: t_ficus_small_f.p3d was very large (810 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492334 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492334: t_ficus_medium_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492324 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492324: t_ficus_small_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492323 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492323: t_ficus_small_f.p3d was very large (870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492332 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492332: t_ficus_medium_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 1600969 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 1600969: bw_setbig_tubeg_f.p3d was very large (9300 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492344 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492344: t_cocosnucifera3s_tall_f.p3d was very large (720 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492296 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492296: t_cyathea_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492337 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492337: t_ficus_small_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492354 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492354: t_leucaena_f.p3d was very large (720 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492358 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492358: t_ficus_medium_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492352 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492352: t_leucaena_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492353 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492353: t_leucaena_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492345 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492345: t_cocosnucifera3s_tall_f.p3d was very large (720 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492355 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492355: t_leucaena_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492357 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492357: t_ficus_medium_f.p3d was very large (720 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492336 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492336: t_ficus_medium_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56493 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56493: b_ginger_3_f.p3d was very large (6870 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56494 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56494: b_ginger_3_f.p3d was very large (6900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56496 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56496: b_ginger_3_f.p3d was very large (6900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 56495 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 56495: b_ginger_3_f.p3d was very large (6900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492348 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492348: t_leucaena_f.p3d was very large (720 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492351 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492351: t_leucaena_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492347 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492347: t_leucaena_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492349 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492349: t_leucaena_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492356 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492356: t_ficus_medium_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492318 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492318: t_ficus_small_f.p3d was very large (840 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492346 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492346: t_cocosnucifera3s_tall_f.p3d was very large (720 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492350 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492350: t_leucaena_f.p3d was very large (750 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492259 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492259: t_cyathea_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492250 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492250: t_palaquium_f.p3d was very large (900 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492270 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492270: t_ficus_medium_f.p3d was very large (930 m)
+2016/06/17, 18:34:05 Performance warning: Very large search for 492247 (>300 m)
+2016/06/17, 18:34:05 Performance warning: Search for 492247: t_inocarpus_f.p3d was very large (900 m)
+2016/06/17, 18:34:06 Connected to Steam servers
+2016/06/17, 18:34:06 "<infiSTAR.de> 0 - Thread #1: Server Loop #1 starting now!"
+2016/06/17, 18:34:06 "<infiSTAR.de> 0 - Thread #1: Server Loop #1 looping now!"
+2016/06/17, 18:34:06 Error: Object(2 : 455) not found
+2016/06/17, 18:34:06 c:\w\stable\futura\lib\network\networkserver.cpp NetworkServer::OnClientStateChanged:NOT IMPLEMENTED - briefing!
+2016/06/17, 18:34:06  Mission id: 80215446fceaf0193810950e1a7daac204c9e2de
+2016/06/17, 18:34:06 "extDB2: Connected to Database"
+2016/06/17, 18:34:37 "[Display #24]"
+2016/06/17, 18:35:46 Unaccessible
+2016/06/17, 18:35:46   found in (509,0).
+2016/06/17, 18:35:46 House not found in the list
+2016/06/17, 18:35:46 House 3d909600# 1689475: pier_f.p3d (from) not found in the operative map
+2016/06/17, 18:35:47 "------------- Client Query Request -------------"
+2016/06/17, 18:35:47 "QUERY: SELECT playerid, name, cash, bankacc, adminlevel, donatorlvl, cop_licenses, coplevel, cop_gear, blacklist, cop_stats FROM players WHERE playerid='76561198123190756'"
+2016/06/17, 18:35:47 "Time to complete: 0.00100708 (in seconds)"
+2016/06/17, 18:35:47 "Result: ["76561198123190756","[R.D.B] Bob l Arnaque",0,4.99842e+008,"5","0","[[`license_cop_cAir`,1],[`license_cop_cg`,1]]","6","[`U_B_GEN_Soldier_F`,`V_TacVest_gen_F`,`B_ViperHarness_blk_F`,`G_Shades_Black`,`H_MilCap_gen_F`,[`ItemMap`,`ItemCompass`,`ItemGPS`],`SMG_05_F`,`hgun_P07_snds_F`,[],[`16Rnd_9x21_Mag`,`30Rnd_9x21_Mag_SMG_02_Tracer_Green`],[],[],[],[`30Rnd_9x21_Mag_SMG_02_Tracer_Green`,`30Rnd_9x21_Mag_SMG_02_Tracer_Green`,`30Rnd_9x21_Mag_SMG_02_Tracer_Green`,`16Rnd_9x21_Mag`],[``,``,``,``],[`muzzle_snds_L`,``,``,``],[]]",0,"[100,100]"]"
+2016/06/17, 18:35:47 "------------------------------------------------"
+2016/06/17, 18:35:47 Error: Object(3 : 2) not found
+2016/06/17, 18:35:47 Error: Object(3 : 4) not found
+2016/06/17, 18:35:50 "<infiSTAR.de> RequestToken: [R.D.B] Bob l Arnaque(76561198123190756) Requested a Token!   _clientID: 3"
+2016/06/17, 18:35:50 "<infiSTAR.de>ConnectLog| 2h 48min | Runtime: 1m 43s | SENT TOKEN [tkniyd6ovnejp2lg5u] TO ID [[R.D.B] Bob l Arnaque(76561198123190756) - 3] (v0239)"
+2016/06/17, 18:35:50 "<infiSTAR.de> server_setToken: SENT TOKEN [tkniyd6ovnejp2lg5u] TO [R.D.B] Bob l Arnaque(76561198123190756)"
+2016/06/17, 18:35:50 "<infiSTAR.de> ******ADMIN-LOGIN******: [R.D.B] Bob l Arnaque(76561198123190756) (v0239)"
+2016/06/17, 18:42:27 Client: Remote object 3:0 not found
